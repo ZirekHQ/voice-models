@@ -1,0 +1,44 @@
+# Model weights and checkpoints live on Hugging Face, never in git.
+*.onnx
+*.onnx.json
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+*.tflite
+*.mlmodel
+*.mlpackage/
+checkpoints/
+lightning_logs/
+runs/
+wandb/
+outputs/
+
+# Audio and corpora are too large for git.
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.opus
+*.m4a
+data/raw/
+data/processed/
+data/cache/
+
+# Benchmark outputs: commit summaries, not generated audio.
+eval/results/**/audio/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
