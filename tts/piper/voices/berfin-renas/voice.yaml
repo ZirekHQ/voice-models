@@ -1,0 +1,19 @@
+# Per-voice config for Piper. One block per quality level.
+voice: berfin-renas
+language: kmr            # Northern Kurdish (Kurmanji)
+espeak_voice: ku
+dataset: TODO            # dataset name or manifest under data/manifests/
+
+qualities:
+  low:
+    status: planned
+    sample_rate: 16000
+    hf_repo: rojanu/piper-ku-berfin-renas-low
+  medium:
+    status: trained
+    sample_rate: 22050
+    hf_repo: rojanu/piper-ku-berfin-renas-medium
+  high:
+    status: planned
+    sample_rate: 22050
+    hf_repo: rojanu/piper-ku-berfin-renas-high

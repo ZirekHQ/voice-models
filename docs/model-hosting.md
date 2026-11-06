@@ -1,0 +1,27 @@
+# Where weights and audio live
+
+Git holds only code, configs, manifests and benchmark summaries. The
+`.gitignore` blocks weights (`*.onnx`, `*.ckpt`, `*.safetensors`, ...) and
+audio (`*.wav`, `*.flac`, ...).
+
+## Weights: Hugging Face
+
+Each trained model gets its own Hugging Face model repo, named
+`<engine>-ku-<voice>-<quality>`:
+
+| Model | Repo |
+|---|---|
+| Piper, berfin-renas, medium | [rojanu/piper-ku-berfin-renas-medium](https://huggingface.co/rojanu/piper-ku-berfin-renas-medium) |
+
+A model repo should contain the exported model (for Piper, `*.onnx` plus
+`*.onnx.json`), a model card naming the dataset, the commit of this repo it
+was trained from, and the `eval/` results for it.
+
+Large training checkpoints, if kept, go in a separate Hugging Face repo or
+storage bucket, not in the published model repo.
+
+## Audio: outside git
+
+Recordings and processed datasets live in external storage (a Hugging Face
+dataset repo is the default choice). `data/manifests/` holds the text side:
+utterance id, transcript, and the path or URL of the audio.
