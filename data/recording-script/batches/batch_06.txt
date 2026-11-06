@@ -1,0 +1,1176 @@
+kmr_05017	Gelek kes nanê sêlê difiroşin û bi vî awayî dahata malbata xwe dabîn dikin.
+kmr_05018	Em îşê xwe dizanin.
+kmr_05019	Ji falbêjan bawer nekin.
+kmr_05020	Di encama serdegirtinê de derket holê.
+kmr_05021	Mîna ku em tev dizanin serhildanên wê demê, tev têk çûne.
+kmr_05022	Ez ji rengê reş hez dikim.
+kmr_05023	Hema ji bo bibe wekî fenteziyekê ez xwe pê mijûl dikim.
+kmr_05024	Pergala rêvebirî, di sê waran de hatiye parvekirin.
+kmr_05025	Em dema we naşopînin.
+kmr_05026	Ji hiriya wan kincan çêdikin.
+kmr_05027	Di wexta xwendina mektebê de nîşan bû.
+kmr_05028	Dema ku ez biaxivim, serê xwe naxim ber xwe.
+kmr_05029	Divê meriv ji xwe re efendiyekî hilbijêre.
+kmr_05030	Vê dinyayê ez pîr kirim.
+kmr_05031	Lihêfa xwe biavêje ser xwe.
+kmr_05032	Bi vî awayî em mala xwe xera dikin.
+kmr_05033	Ji marên Hindistanê ên xeternaktir.
+kmr_05034	Ji hêza hin lawiran jî sûdê dibînin.
+kmr_05035	Hevalê te ji sporê hez dike?
+kmr_05036	Mirov hêvî dike, daxwaz dike, lê belê hemî daxwaz bidest nakevin.
+kmr_05037	Rêjeya danûstandina bazirganî ya navbera herdu welatan, zêdetir dibe.
+kmr_05038	Ji bo vê xebata hêja ez mamoste pîroz dikim.
+kmr_05039	Ji bo çi? Çima?
+kmr_05040	Te hevalên xwe nas kirin?
+kmr_05041	Carna di civata heval û hogiran de me.
+kmr_05042	Qet li halê xwe napirsî.
+kmr_05043	Li aliyekî dibistanê gulistanek heye.
+kmr_05044	Ho deve, ho deve, milikê min û te her tim biheve.
+kmr_05045	Pêdivî bi zagona hunerê heye.
+kmr_05046	Ji bo ku rastî dernekeve holê, em pir tengav kirin.
+kmr_05047	Li ber êvarê jin û kebaniyê malê haziriya xwarina fitarê dikin.
+kmr_05048	Di kilamên Kurdî de ev evîndariya piralî derdikeve pêş.
+kmr_05049	Mêrxasî û tirxasî ne yek in.
+kmr_05050	Ez ê av nedim.
+kmr_05051	Te li ba nekir.
+kmr_05052	Tenê golar dikarin bi destên xwe gogê bigirin.
+kmr_05053	Wan li ba nekiriye.
+kmr_05054	Ew ê bar bikin.
+kmr_05055	Tu dê av nedî.
+kmr_05056	Hemû jî jar bûn.
+kmr_05057	Çi li ser maseyê ne?
+kmr_05058	Ma ew dizane ku ez li vir im?
+kmr_05059	Tomî erebeya Maryê tamîr kir.
+kmr_05060	Çavên kesk pir xweşik in.
+kmr_05061	Niha, çavên xwe vekin.
+kmr_05062	Otela me li ser cadeya sereke ye.
+kmr_05063	Min hestiyek da kûçik, vê yekê ewtîna wî rawestand.
+kmr_05064	Hûn ne bavê min in!
+kmr_05065	Êvara te bi xêr!
+kmr_05066	Kê dilê te şikand?
+kmr_05067	Ev tiştekî wekî ku mere li ser heyvê bimeşe.
+kmr_05068	Heta ez bijîm, ez ê vê civînê bi kêfxweşî bibîr bînim.
+kmr_05069	Sê pirtûkên min hene.
+kmr_05070	Ez erebî fêr dibim.
+kmr_05071	Di hefteyekê de pênc dersên min ên Îngilîzî hene.
+kmr_05072	Ez dizanim tu îro nayê.
+kmr_05073	Ev ne li ser wan e, ma ne?
+kmr_05074	Ez nizanim bi şetrencê bilîzim.
+kmr_05075	Hestî îskeletê mirov pêk tînin.
+kmr_05076	Wî dê çi bigota?
+kmr_05077	Ez dizanim tu çima daketiyî vir.
+kmr_05078	Çavên min fireh bûn.
+kmr_05079	Ev zarok pir delal in.
+kmr_05080	Keştiya wan hîn li lîmanê ye.
+kmr_05081	Ew zanyar di newalê de li hestiyên dînazoran digere.
+kmr_05082	Tişta ku min dixwest bibêjim ne ev bû.
+kmr_05083	Te çima beriya niha ev hemû ji min re negotin?
+kmr_05084	Ez ti caran naxwînim.
+kmr_05085	Li çavên min binihêre.
+kmr_05086	Xwendekaran spartekên xwe çêdikirin.
+kmr_05087	Îro serê rojiyê ye.
+kmr_05088	Êvara te bimîne xweş.
+kmr_05089	Tu wekî berazan î.
+kmr_05090	Goştê sor ji bo biraştinê pir xweş e.
+kmr_05091	Tekerê erebeya min teqiya.
+kmr_05092	Xwezî min ev kombers nekirîba, hêringa wê ne baş e.
+kmr_05093	Di taştêyê de penêr û mast nebe, nabe.
+kmr_05094	Çi ji te re tu xwe pê eleqedar dikî.
+kmr_05095	Ji kerema xwe çenteyên xwe deynin ser maseyê.
+kmr_05096	Di hezîranê de ez ê herim Amedê.
+kmr_05097	Kes nizane ka ez kî me.
+kmr_05098	Ez ne guncav im.
+kmr_05099	Wateya jiyanê çi ye?
+kmr_05100	Ka bibêje em ê çawa bigihîjin rastiyê.
+kmr_05101	Dev jê berde, jixwe em tim têk diçin.
+kmr_05102	Bavê min li benda min e em ê bi hev re bixwin.
+kmr_05103	Ka em lê temaşe bikin.
+kmr_05104	Ji vê hêlê ve ti kêmasiya me tune.
+kmr_05105	Havîn bi germa xwe, dexilûdanên me digihîne temamkirinê.
+kmr_05106	Ma kî ber bi te ve nayê, li te xwedî dernayê.
+kmr_05107	Divê em herin malê.
+kmr_05108	Mamoste çend çîrokên nivîskar xwend.
+kmr_05109	Çend zarokên ciwan tên gundê xwe.
+kmr_05110	Li herêma xwe dimîne ta ku kal dibe.
+kmr_05111	Her tişt temam bû, lê çima ev bûyer qewimî?
+kmr_05112	Dengê xwe zêde bilind nakim.
+kmr_05113	Cara yekê xebatên zanistî, li vir dest pê kirine.
+kmr_05114	Dem nû ye em xwendekar in.
+kmr_05115	Min alîkarî da dê û bavê xwe.
+kmr_05116	Têkiliyeke xurt, di navbera ziman û bîrdozî û civakê de heye.
+kmr_05117	Em hevoka li jêr bixwînin.
+kmr_05118	Di civatên paşdemayî de ev pirs, wek benîşt di devê herkesi de ye.
+kmr_05119	Em ê nikaribin waneyên xwe baş guhdar bikin.
+kmr_05120	Min li ser vê ramanê, bi wî re gelek gengeşe kir.
+kmr_05121	Ev agahî bi kurtahî hatiye girtin û hatiye wergerandin.
+kmr_05122	Li ser kursî min şopa lingan dîti bû.
+kmr_05123	Çima hinek êzdî ji netewa xwe direvin û dibêjin Em kurd nînin?
+kmr_05124	Niqaşên li ser tv'ya Kurdî berdewamin.
+kmr_05125	Lê mixabin niha salê carekê nanê sêlê dibe qismetê me.
+kmr_05126	Dema kincên me, yan jî laşê me qirêj bibe, divê em xwe bişon.
+kmr_05127	Kedîkirina heywanên kovî û destpêkirina çandinê, li ser vê axê rû daye.
+kmr_05128	Ji aliyek din ve jî, Zînê bi tenê nedima ji ber ku ducanî bû.
+kmr_05129	Enstîtuyê diyar kir ku ew piranî li ser çanda Kurdî xebatan dimeşînin.
+kmr_05130	Îşev dora filankesî ye.
+kmr_05131	Bi ewlekariyeke xurt, dest bi lêgerînê kirin.
+kmr_05132	Ez her tim pê re.
+kmr_05133	Kesên di jêra derenceka civakî de ne jî, xwediyê jin û zarokeke ne.
+kmr_05134	Dapîr çi ji zarokan re dibêje?
+kmr_05135	Bijîşk li me dinêre, li dengê dilê me guhdar dike.
+kmr_05136	Ji ber ku bizavên wêjeyî, bi mijara me ve têkildar in.
+kmr_05137	Hatina malên diya min li salê digihaşte hezar zêrên ingilîzî.
+kmr_05138	Lewra zimanên ku di qada wêje û zanistê de pêş ketine.
+kmr_05139	Min guhê xwe da qiseyan.
+kmr_05140	Dê heta kengî bidome?
+kmr_05141	Heke meriv bê xwarin ango bê ard û arvan diman.
+kmr_05142	Çavê dê û bavan li ewladan.
+kmr_05143	Ez wekî keçek Kurd, vê yekê şermezar dikim.
+kmr_05144	Gelo wî bêjeyên çawa û bi çi zimanî bikar anîne.
+kmr_05145	Her wiha ji ber ku maleke kevn e.
+kmr_05146	Em ê di jiyana xwe de serkeftî bin.
+kmr_05147	Cudahiyên me sedemên pêşketina me ne.
+kmr_05148	Porê wê reş û çavê wê şîn bû.
+kmr_05149	Ez ji guran pir ditirsim.
+kmr_05150	Kekê te çawa dest bi nivîsandina helbestê kir?
+kmr_05151	Ma dinya xera bû.
+kmr_05152	Pênc deqe sebir bike, pênc sala bijî.
+kmr_05153	Paşê ji bo xwendina bilind, diçe Agiriyê.
+kmr_05154	Jixwe kirina tiştekî din şûna wê nagire.
+kmr_05155	Bi giştî ji hunerê hez dikim.
+kmr_05156	Bi hêviya di demeke kurt de em hev bibînin.
+kmr_05157	Ez tev li civakê nabim.
+kmr_05158	Ew yekî derewker e.
+kmr_05159	Min ew ji te bihîst.
+kmr_05160	Ev werger rast e, lê pir zêde peyv bi peyv e.
+kmr_05161	Wî berê xwe da mala bavê xwe.
+kmr_05162	Di her ceribandina xwe de têk çû.
+kmr_05163	Karê we bi van nimûneyan re sînordar bû.
+kmr_05164	Stêra li şikeftê hestiyên mirovan dît.
+kmr_05165	Mercên we çi ne?
+kmr_05166	Ez ne dêlik im!
+kmr_05167	Ez hîn jî stranê dibêjim.
+kmr_05168	Ez bawer nakim ku tiştek bê kirin.
+kmr_05169	Piraniya koçberan navên xwe guhertin.
+kmr_05170	Ev zivistan pir sar bû.
+kmr_05171	Zarok tiştan bi ken dibêjin.
+kmr_05172	Êdî hew jê hez dikim.
+kmr_05173	Ez dixwazim bi te re bimînim.
+kmr_05174	Ew dilê min e.
+kmr_05175	Divê em bandaja te biguherînin.
+kmr_05176	Daxwaza wî ya ji bo destûra rojekê red kir.
+kmr_05177	Ew sêrbazekî xurt e.
+kmr_05178	Pirtûka min li ser maseyê ye.
+kmr_05179	Ez ji Dêrsimê me.
+kmr_05180	Ji aliyê din ve bi bendavan, avahiyên dîrokî tune dibin.
+kmr_05181	Lê me dizanî ko ne çû bû raketinê.
+kmr_05182	Dinya xweş bûye, însan ne rind bûye.
+kmr_05183	Paşê rêveçûna xwe jî şaş dikin!
+kmr_05184	Rêvebiriya komeleyê, serkeftin ji xebatên me re xwest.
+kmr_05185	Endamên parlementoyê, di rûniştina xwe ya îro de biryar dan.
+kmr_05186	Di pey re me qîrîneke ecêb bihîst.
+kmr_05187	Bi rastî, armanca min ji vê danûstandinê, tenê biratiya gelan bû.
+kmr_05188	Hûn fêm dikin ne wisa? Ev car sûc ê min bû.
+kmr_05189	Navê welatê me çi ye?
+kmr_05190	Meymûn bi darê ve ye.
+kmr_05191	Ew ê wê birevîne.
+kmr_05192	Roj heye xatiran dixwazî.
+kmr_05193	Tu yê bê xal û bê metik bî.
+kmr_05194	Bedirxan kar û barê xwe yên malê dikir.
+kmr_05195	Bila şeytan rûyê te bibîne.
+kmr_05196	Bi rastî ji xwediya malê tirsa wî filan tune bû.
+kmr_05197	Bikaranîna zimanê dayîkê, mafê herî xwezayî ye.
+kmr_05198	Em ê bi awayekî kurt bi mînakan bibînin.
+kmr_05199	Ku çêlik ji hêkê derdikevin.
+kmr_05200	Hin ji wan ji bo têkiliyên navbera mirovan.
+kmr_05201	Kuriyeke mirov hebe bar li erdê namîne.
+kmr_05202	Êdî divêt em ji hev veqetin.
+kmr_05203	Ser te bûye şîn û girîn e.
+kmr_05204	Dema ku me pisûle danî cihekî rast.
+kmr_05205	Bi xwe re jî serseriyekî tazî tînî.
+kmr_05206	Xwedê ez ceza kirim.
+kmr_05207	Wezîrê karên derve jî li dor vê yekê, daxuyaniyek da çapemeniyê.
+kmr_05208	Holmes gote min: Ev e şelîta belek.
+kmr_05209	Di demsala buharê de hemû dar û şînatî pel didin.
+kmr_05210	Lewra ez bi rewşa wê ya perîşan pir dêşiyam.
+kmr_05211	Dema pişko xelasiya zivistanê û hatina biharê ye.
+kmr_05212	Ku dibe sibe bi çavê xwe bawer nake.
+kmr_05213	Ji aliyekî din ve jî dewleta osmaniyan pir diwêriyan.
+kmr_05214	Em lingê xwe bi pêş de bikişînin.
+kmr_05215	Dema xizmên me jî tev li malbatê dibin, dibe malbata mezin.
+kmr_05216	Her çiqas ku heywan bê ziman be.
+kmr_05217	Karên qîza bazingê destê wan e.
+kmr_05218	Ez, ev kiryara hovane û nemirovî rûreş dikim.
+kmr_05219	Bîranîna her yekî ji wan, bîranîna mîrata manewî ye.
+kmr_05220	Ji hemûyan jî bêhneke pîs dihat.
+kmr_05221	Li hundir bû qiyamet.
+kmr_05222	Û waneyên nû jî bi hev re dixwendin.
+kmr_05223	Pêwîst e em cudahiyên xwe ser yekî din nesepînin.
+kmr_05224	Tu rojê çi qas pere qezenc dikî?
+kmr_05225	Çima ji hêla mamoste û hevalên xwe ve, tê hezkirin?
+kmr_05226	Di nava hikûmetê de jî berdevkê wan tuneye.
+kmr_05227	Di dora serê diktor de şelîteke zer bi deqine reş hebû.
+kmr_05228	Hikûmetê, li dijî şîdetê gelek giştîname weşand, lê şîdet her çû zêde bû.
+kmr_05229	Ez roj bi roj qelew dibim.
+kmr_05230	Di axaftina xwe de spasiya xwe, ji bo beşdaran anî ziman.
+kmr_05231	Di civînan de bi rûken be.
+kmr_05232	Baweriya wan bi wan xurtir dibû.
+kmr_05233	Rûyê wî ripîronî bû.
+kmr_05234	Armanc jê zêdekirina amadekirina wan e.
+kmr_05235	Berhema wî ya herî navdar ev e.
+kmr_05236	Kar pir e lê em tunin.
+kmr_05237	Yanê ku hûn, bûk û zarokên xwe bi min re qise nekîn.
+kmr_05238	Pisîk di navbera kursî û kartonê de ye.
+kmr_05239	Dê bimînin, ji ber ku xwedî ew in!
+kmr_05240	Min gote Holmes: Te dît?...
+kmr_05241	Ez ê zû rehet bibim?
+kmr_05242	Dayîka wî, di destpêkê de, ew bi çanda Kurdan perwerde kir.
+kmr_05243	Çar demsalên welatê me hene buhar, havîn, payîz û zivistan.
+kmr_05244	Weşîna porê zilaman bi gelemperî ji ber hormona testosteronê ye.
+kmr_05245	Ez ji xwarina bacanên sor hez nakim.
+kmr_05246	Hûn îro çi dikin?
+kmr_05247	Tu jî kurd î?
+kmr_05248	Tiştê ku ez difikirim ne ev e.
+kmr_05249	Niha li ser nivînên xwe raketî me.
+kmr_05250	Guhdarî bike û dibe ku tu tiştekî hîn bibî.
+kmr_05251	Heya wan jî nizanîbûn em li wir in.
+kmr_05252	Em li lobiya otêlê li bende ne.
+kmr_05253	Ew ji ber dizîna hestiyê dînazoran tên tawanbarkirin.
+kmr_05254	Divê tu ji bakteriyên hindurê xwe netirsî.
+kmr_05255	Ez ji birçîna mirim.
+kmr_05256	Hevalên min ji min re dibêjin Zana.
+kmr_05257	Ez kurmancî dibêjim ji te re.
+kmr_05258	Îro çi roj e?
+kmr_05259	Ew dizane ku ez li vir im?
+kmr_05260	Ev peyvek e lê ne hevokek e.
+kmr_05261	Di her demê de li gel tiştên neyînî tiştên erênî jî cih digirin.
+kmr_05262	Şaneya mirov ji xaneyan pêk tê.
+kmr_05263	Tu dikarî çirkeyekê destûrê bidî min?
+kmr_05264	Li derve hewa çawa ye?
+kmr_05265	Ez hêvî dikim ku me ya rast kiribe.
+kmr_05266	Min bibore lê tiştê ku tu dibêjî nayê qebûlkirin.
+kmr_05267	Em amade ne ji bo lîstikê.
+kmr_05268	Vê bixwînin û mijarê fêm bikin.
+kmr_05269	Ez bi wî re çûm beravê.
+kmr_05270	Ez heyranê we me.
+kmr_05271	Meta min pirtûkek wek diyariya sersalê da min.
+kmr_05272	Sibeyê daweta hevalê min heye.
+kmr_05273	Hevalê min ê hêja û qedirbilind!
+kmr_05274	Ala Kurdistanê berz bû.
+kmr_05275	Divê bi baldarî pirsgirêkê di ber çavan re derbas bikin.
+kmr_05276	Min herî dawî ew li parka otomobîlan dît.
+kmr_05277	Ji kerama xwe ji dil ve bibêje.
+kmr_05278	Mezinên ji her sê malbatan hatine.
+kmr_05279	Heywanê hov giş birçî diman.
+kmr_05280	Hûn bitirsin ji mirinê.
+kmr_05281	Av û hewa û ber e cih, meskenê jîndar e.
+kmr_05282	Qe guh nedin dinyayê.
+kmr_05283	Min di şahiyê de mamoste û hevalên xwe dîtin.
+kmr_05284	Miletên bindest, heyîna xwe bi zimên dikarin biparêzin.
+kmr_05285	Ez neh salî me.
+kmr_05286	Li her bajar û navçeyan, amadekarî bi lez û bez dewam dikin.
+kmr_05287	Îsal ez ê refa duyem bixwînim.
+kmr_05288	Li vir sê yan jî çar dergevan hebûn.
+kmr_05289	Pirtûka min di çente de ye.
+kmr_05290	Ez ji rengê sor hez dikim.
+kmr_05291	Ji derî şûnde vegeriya.
+kmr_05292	Nivîsa ku li ser kevala dibistanê hatibû nivîsîn.
+kmr_05293	Em wekî rewşenbîrekî Kurd, vê yekê daxwaz dikin.
+kmr_05294	Tiştên ku em fêr nebûne, em dê ji hev bipirsin da ku fêr bibin.
+kmr_05295	Êşên xwe bi çîrokan anîne zimên û vegotine.
+kmr_05296	Me ev hemî digihandin hev lê em ne digihaştin netîcekê.
+kmr_05297	Belê li ber derî ketibû erdê.
+kmr_05298	Pêwîst e em sûdê ji amûrên perwerdeyê bigirin.
+kmr_05299	Di heman demê de ji bo xwendin û lêkolînan tiştekî baş e.
+kmr_05300	Eger ku mirov li pey gotinên bav û kalên xwe here.
+kmr_05301	Gulanê Cejna Zimanê Kurdî ye û her sal tê pîroz kirin.
+kmr_05302	Gog bi lingan tê lîstin.
+kmr_05303	Birayê min di matematîkê de baş e.
+kmr_05304	Tu dikarî bi destê xwe yê çepê binivîsî?
+kmr_05305	Binêre çi kulîlkeke xweşik e.
+kmr_05306	Şertên we çi ne?
+kmr_05307	Min her du romanên wê nexwendine.
+kmr_05308	Bi xêra xwe dîtina xwe ji min re bibêje.
+kmr_05309	Heke Peymanê were, ji kerema xwe ji min re bibêje.
+kmr_05310	Êdî tu nikarî ji min birevî.
+kmr_05311	Çalakiya ku em hewceyê wê ne.
+kmr_05312	Masiyên golê ne xweş in.
+kmr_05313	Hema dilê te çi divê wî bike.
+kmr_05314	Ez ji porê kin hez dikim.
+kmr_05315	Ev ne cara yekem e ku hestiyê min şikestiye.
+kmr_05316	Wî dilê wê nerm kir.
+kmr_05317	Heke hestiyek min ê şikestî hebe, çi bikim?
+kmr_05318	Hîn em nizanin jiyan çi ye, em ê çawa mirinê fêm bikin?
+kmr_05319	Şervanekî çak, qet hêrs nabe.
+kmr_05320	Li Wanê heşt kes hatin desteserkirin.
+kmr_05321	Li Şingalê di navbera Artêşa Iraqê û şervanan de şer derket.
+kmr_05322	Sibê yekem roja meha Remezanê ye.
+kmr_05323	Ew parçeya peyvê ya ku bi carekê ji devê mirov derdikeve, çi ye?
+kmr_05324	Çarem roja Festîvala Fîlman a Silêmaniyê sih û heşt fîlm tên nimayîşkirin.
+kmr_05325	Jixwe ew îdolê min e.
+kmr_05326	Baş e, lê xwezî te ev şîret lê jî bikiriba.
+kmr_05327	Li parêzgeha Wanê dest bi ser tonek û deh kîlo masî de hat girtin.
+kmr_05328	Hûn ê arode bibin.
+kmr_05329	Li aliyekî bihar li aliyekî zivistan.
+kmr_05330	Hefteya yekem a şerê Rûsya û Ukraynayê.
+kmr_05331	Ez bi wan gelekî serbilind im.
+kmr_05332	Hêzên Sûriyeyê û Hêzên Sûriya Demokratîk hevbendiya xwe zêde dikin.
+kmr_05333	Raboriya min li gel min dimeşe.
+kmr_05334	Tirkiyeyê li Kobaniyê malek bombebaran kir.
+kmr_05335	Dengê tembûra Aram Tîgran dê qet ji ber guhê me neçe.
+kmr_05336	Xwarin pir baş bû.
+kmr_05337	Werîs di kulekê de bi xelekê ve girêdayî ye.
+kmr_05338	Ji bo ku hûn bikaribin ji wê gumanê xwe rizgar bikin.
+kmr_05339	Divê îro jî her dildar û evîndarê ziman be.
+kmr_05340	Doh şevê we çi kirî ji me re bibêje.
+kmr_05341	Di navbera du tîmên ku bi heman hejmarê ne, tê lîstin.
+kmr_05342	Perwerdehî, ji bo her mirovî hewcedariyeke jênager e.
+kmr_05343	Ji bo veşartina neqencbûna xwe, derewan dike.
+kmr_05344	Ji tirsê sûc, ji sûcê ceza çê dibe.
+kmr_05345	Tu yê sibê çi bikî?
+kmr_05346	Çivîk hêlînên xwe li ser daran ava dikin.
+kmr_05347	Dêya me jî çi wextî karê xwe biqedanda û bihata nav ciya.
+kmr_05348	Berê qet piyê wî bi meyxaneyê neketibû.
+kmr_05349	Xwe di ber çavan re dide nîşandan.
+kmr_05350	Ewlehiya werzişan ji bo me tengezariya sereke ye.
+kmr_05351	Mirin hespa boz e, her carê li ber derê yekî ye.
+kmr_05352	Pêwîst e xwendekar bi awayekî rêxistinkirî herin.
+kmr_05353	Em li ser lênûsê, milên xwe yên xurt û lawaz binivîsin.
+kmr_05354	Me her carê pê re waneyên ku lê çûbûn, vedigerand.
+kmr_05355	Jixwe pêwîstiya me bi guhertina rastiyan nîne, bi dîtina rastiyan heye.
+kmr_05356	Gelê kurd, axaftinên karbidestan, bi baldarî dişopîne.
+kmr_05357	Îskana pêşî di yek qurtekî de vexwar.
+kmr_05358	Hêdî hêdî lê germ dibû.
+kmr_05359	Pêwîst e em xwe nas bikin.
+kmr_05360	Lê piştî demeke kin, her tişt zelal bû.
+kmr_05361	Di rojekê de bîst û çar saet hene.
+kmr_05362	Min û Holmes me li ser karê xwe xeber dida.
+kmr_05363	Ev gengeşe, herdem di çarçoveyeke siyasî de hatine kirin.
+kmr_05364	Dest nedin zarokên me û guh bidin dengê dayîkan.
+kmr_05365	Dema ku ez dixwînim, tiliyên xwe di ser xêzên xwendinê re nabim.
+kmr_05366	Ma niha ewle ye?
+kmr_05367	Pîr û kalên me her çiqas nexwenda bûn jî.
+kmr_05368	Di xwezayê de her heyînek xwedî girîngî û wateyekê ye.
+kmr_05369	Em dikarin çawa hîn bibin?
+kmr_05370	Ji wan re şervanekî din jî pêwîst bû.
+kmr_05371	Hevalê ku dixwaze beşdarî lîstoka me bibe, em rê jê re vedikin.
+kmr_05372	Baxçeyê wê fireh e.
+kmr_05373	Sîmon ji bo ku zilam milên xwe têxê alîkarî kir.
+kmr_05374	Tîma ku gogê di ser torê re derbasî beşê tîma din bike.
+kmr_05375	Xwedê ji we razî be û alîkarê we be.
+kmr_05376	Jina zilamê gundî soz da ku hefteya were ê pere bidin.
+kmr_05377	Em weke çûk, xwe bi pêş de çind bikin.
+kmr_05378	Niha jî diçû ku ceribandina vê teşebusê bike.
+kmr_05379	Ezeb heye li vê dinê.
+kmr_05380	Divê em li paqijiya xwe miqate bin.
+kmr_05381	Di nava lîstikê de, alî tên guhertin.
+kmr_05382	Temasa rasterast a fîzîkî ya bi bûyereke gengaz an jî erêkirî;.
+kmr_05383	Em rûyê te yê biken, gotinê te yê bihêvî em ji bîr nakin.
+kmr_05384	Silav, tu çawa yî?
+kmr_05385	Nekeve bin destê bûka.
+kmr_05386	Di nav hemû mamosteyan de herî zêde ji wê hez dikim.
+kmr_05387	Lê belê bikaranîna demokratiyê, ne wek bilêvkirina wê ye.
+kmr_05388	Her roj li cihekî, mirov jiyana xwe ji dest didin.
+kmr_05389	Hestên meriv tim ber avê, delav û hêşinahî dixwaze.
+kmr_05390	Gedê min mala xwe bar kir, bire Stenbolê.
+kmr_05391	Du keçên min hene.
+kmr_05392	Ez aniha dixwazim bibim nivîskar.
+kmr_05393	Xwe li gorî rewşê eyar dike.
+kmr_05394	Wî, bi zimanî xwe yî zelal, xelateke pir hêja, daye gelê Kurd.
+kmr_05395	Wexta ku bêder dadiket qirme bi haletê ga ve dikirin û bêder digerandin.
+kmr_05396	Ez wî ji navê wî dizanim.
+kmr_05397	Li nêzî mala min gulîstan heye.
+kmr_05398	Lewra tawanbar û yên din, bi dewsa tiliyan ji hev tên naskirin!
+kmr_05399	Belê min da bû pey.
+kmr_05400	Li pey tiştên xerab digere û ew ne yekî qenc e.
+kmr_05401	Jîngeh warê me yê bêdawî ye.
+kmr_05402	Hêza wî ya herî mezin, hêvî ye.
+kmr_05403	Xewn û xeyalên zarokan her tim azad in.
+kmr_05404	Tu dixwazî bi me re werî?
+kmr_05405	Çîrokên ku dapîr û bapîrê min dibêjin, zû ji ber dikim.
+kmr_05406	Ev pirtûk, li ser esasê serdestî û bindestiyê hatiye avakirin.
+kmr_05407	Di panela Civaka Kurd de, nêrînên hevbeş hatin ziman.
+kmr_05408	Meha Remezanê mehe rehmetê ye.
+kmr_05409	Em ti caran ser rêyên tirimbêlan nalîzin.
+kmr_05410	Armanca wê peyamê jî zelal bû.
+kmr_05411	Di buharê de em kincên xwe yên zivistanê nema li xwe dikin.
+kmr_05412	Zarokan gotin: Zimanê me rûmeta me ye.
+kmr_05413	Cîhana me çawa ye?
+kmr_05414	Bêhin û rengên şînatiyan, xwezayê dixemilînin.
+kmr_05415	Hevalê wan ji ber çi nedihat dibistanê?
+kmr_05416	Dibistana me, nêzî mala me ye.
+kmr_05417	Ez ji rengên ronî hez dikim.
+kmr_05418	Min ti carî ew çavên reş û komirî ji bîr nekir.
+kmr_05419	Gelo cihekî ku em ê bikaribin destên xwe lê bişon heye?
+kmr_05420	Divê hûn li her tiştî mikur bên.
+kmr_05421	Di wan nêrînên te de wenda bûbûm.
+kmr_05422	Ji kerema xwe hemû stranan jê bibe.
+kmr_05423	Me alî te kir.
+kmr_05424	Bes e êdî, divê em rêya xwe vekin.
+kmr_05425	Ev xiyar çilmisî ne û gelekî buha ne.
+kmr_05426	Îşev heyv li ezmên e bel bûye.
+kmr_05427	Em Kurd çima pêşî li halê xwe nagirîn!
+kmr_05428	Ez ê wêneyê me ji te re bişînim.
+kmr_05429	Ne xema min e!
+kmr_05430	Xwe ji çavan biparêze.
+kmr_05431	Alîkarî ji we re lazim e ji bo vekirina rê.
+kmr_05432	Dereng ket, divê ez herim malê.
+kmr_05433	Heke ew neyê, ez jî nayêm.
+kmr_05434	Rengê sola min reş e.
+kmr_05435	Beranê min avê vedixwe.
+kmr_05436	Daristana bajêr mezin dibe.
+kmr_05437	Pêdiviya min bi kirîna vê heye.
+kmr_05438	Wextê ku em gihîştin Silêmaniyê min agahdar bikin.
+kmr_05439	Tu her dem di bîra min de yî.
+kmr_05440	Lê ew ne sêv bûn.
+kmr_05441	Her kes aş û bajarê xwe dibêje.
+kmr_05442	Çand di civakê de hestên hevgirtin û alîkariyê bi pêş dixe.
+kmr_05443	Li ser taybetiya civakî ya gelê Kurd xebatekê dike.
+kmr_05444	Dildar li dibistanê hevalên nû nas dike.
+kmr_05445	Sibê du sibê mirina we tê.
+kmr_05446	Li ser kincên wî parçeyên kayê hebûn.
+kmr_05447	Meriv tev li benda fitarê ne.
+kmr_05448	Ji bo ku şînatî mezin bibin û berheman bidin, av hewce ye.
+kmr_05449	Kurdan, di hilbijartinên herêmî de serkeftineke mezin bi dest xistin.
+kmr_05450	Em bi hev re vê sirûdê bixwînin.
+kmr_05451	Di demên berê de, erd bi ga û hespan dihat cotkirin.
+kmr_05452	Tu ji ku yî?
+kmr_05453	Rêveberiya nû, dixwaze operasyoneke bejahî pêk bîne.
+kmr_05454	Li hemberî vê zordestiyê, padîşah jî nediwêribû dengê xwe derxe.
+kmr_05455	Zarok ji meha Remezanê meha rehmetê nesîbê xwe digrin.
+kmr_05456	Min kir ko ez wê rakim.
+kmr_05457	Ev hemû bandorê li jiyana me dikin.
+kmr_05458	Kurdiya cegerxwîn, gelek baş û gelek zelal bû.
+kmr_05459	Bajarê Diyarbekirê, bi dîroka xwe bajarekî kevnare ye.
+kmr_05460	Hate zanîn ku gelek balefirên şer, beşdarî bombebaranê dibin.
+kmr_05461	Eman Xwedayê min! Ev ne gor e?
+kmr_05462	Tev bi zevî û gund in.
+kmr_05463	Ez tiştê ku tu dixwazî, dixwazim.
+kmr_05464	Jiyanê çawa dest pê kir?
+kmr_05465	Rewşeke me ya awarte heye.
+kmr_05466	Gerek e tu vî dermanî bibî.
+kmr_05467	Ew çi karî dikin?
+kmr_05468	Ti tişt belav nebûye.
+kmr_05469	Ew li ber ket.
+kmr_05470	Tu li ber neketî.
+kmr_05471	Her sibeh di dema xwe de digihîje dibistanê.
+kmr_05472	Tu li ber xwe ketî.
+kmr_05473	Hûn ê bêriya dibistanê bikin.
+kmr_05474	Em li ber neketin.
+kmr_05475	Ew ê li ber bikeve.
+kmr_05476	Me bi dest xist.
+kmr_05477	Bila ew pêşî derkeve derve.
+kmr_05478	Hûn bêriya dibistanê nakin.
+kmr_05479	Jixwe ne giring e.
+kmr_05480	Ew li ber xwe ket.
+kmr_05481	Ji bîr neke, serê sibehê em ê biçin kar.
+kmr_05482	Xwendekarê xweşik, xwe bide nasîn.
+kmr_05483	Holmes: Lê welê dixuye ko zengil nû hatiye danîn.
+kmr_05484	Samî porê xwe kur nekir.
+kmr_05485	Dev ji lêdana pisîkê berde!
+kmr_05486	Min mifteya xwe li van deran ciyekî ji xwe xistiye.
+kmr_05487	Îro rojeke ewrî ye.
+kmr_05488	Ew ji wî mezintir e.
+kmr_05489	Hûn jî kurd in?
+kmr_05490	Zilamê ku ev pirtûk nivîsandiye bijîşk e.
+kmr_05491	Ez divê herim malê.
+kmr_05492	Te, ew hemû ji ber xwe ve avêt, ne wisa?
+kmr_05493	Ez dixwazim hînî kurdî bibim.
+kmr_05494	Ew ji bo me ye.
+kmr_05495	Birayê wî îro ne li vir e.
+kmr_05496	Ew cadeyek du alî ye.
+kmr_05497	Ramanên te çi ne?
+kmr_05498	Bibore, asansor li ku ye?
+kmr_05499	Ne cejn e, ne seyran e.
+kmr_05500	Ez bi qasî te yextiyar im.
+kmr_05501	Ez her roj êşê dikişînim.
+kmr_05502	Malên wan gundiyan pir mezin in.
+kmr_05503	Ev ne pêwîst bû.
+kmr_05504	Ku berf diket, nava gund û bajar dihat birîn.
+kmr_05505	Aqilê sivik barê giran.
+kmr_05506	Li gorî vê yekê, gotinên ne baş jî qedexe ne.
+kmr_05507	Esê li mala me gotiye.
+kmr_05508	Holmes: Kerem ke, çîroka xwe bibe serî.
+kmr_05509	Şeş zarok Xwedê dane me.
+kmr_05510	Em ê li ser tifikê şîvê çêkin.
+kmr_05511	Bila ne bi dilê me, be ne bi milê me be.
+kmr_05512	Te ez tenê hiştim li vir!
+kmr_05513	Gelek çalakî tên lidarxistin.
+kmr_05514	Piştre min bi malbata xwe re taştê xwar.
+kmr_05515	Xuyê jinê ku pere tune be tê fehm kirin.
+kmr_05516	Dinya me girover e, li dora xwe digere.
+kmr_05517	Pîrê bawernekir mêr bike, dawa heştekê kir.
+kmr_05518	Em gelek bi kurtî dikarin nêrînan bi çend xalan dabeş bikin.
+kmr_05519	Di dema xwe de êm û avê bidin wan.
+kmr_05520	Ez ê ji bo zimanê xwe hewl bidim.
+kmr_05521	Piştî ku şert û mercên xwe jimart, min dev jê berda.
+kmr_05522	Ne vê carê tenê timî vê gotinê bi kar tîne.
+kmr_05523	Hûn bêriya dibistanê dikin.
+kmr_05524	Zelalê dilê min şikand.
+kmr_05525	Heya niha qet ez nefikirîme ku ez ê têkevim gorê!
+kmr_05526	Armanca germbûnê ew e ku xwendekar ji aliyê laş ve bê amadekirin.
+kmr_05527	Em li ber xwe neketin.
+kmr_05528	Wan bi dest nexist.
+kmr_05529	Ew a bejndirêj û porê wê reş kî ye?
+kmr_05530	Dema ku mirov diçe serê çiyayê gilîdaxê çi xweş dibe.
+kmr_05531	Di dema xwe de hatin dibistanê.
+kmr_05532	Navê te çi ye delalê?
+kmr_05533	Ez dizanim tu jî bêriya min dikî.
+kmr_05534	Ez bi qasî te pîr im.
+kmr_05535	Baweriya te bi Xwedê heye?
+kmr_05536	Tu ji xebitînê hez dikî?
+kmr_05537	Ji me ye jî te zanî bû.
+kmr_05538	Divê tu berî saet nehan vegerî.
+kmr_05539	Ez spanî û îtalî fêr dibim.
+kmr_05540	Ew vedigere welatê xwe.
+kmr_05541	Dilê min yê te ye.
+kmr_05542	Hûn ji ku derê ne?
+kmr_05543	Ez carinan pir ditengijim.
+kmr_05544	Dilê wê lê dide.
+kmr_05545	Ma hûn ne xwendekar in?
+kmr_05546	Porê min şeh bike delala min.
+kmr_05547	Xuya ye mere neceribîne çêtir e.
+kmr_05548	Di van rojan de gelek nûçeyên xapînok hene.
+kmr_05549	Ji kerema xwe re min bişopînin.
+kmr_05550	Te dilê min dizî.
+kmr_05551	Arîstotales bawer dikir ku cîhan ji çar elementan pêk hatiye.
+kmr_05552	Min tiştek ji te re şandiye.
+kmr_05553	Axaftin pir dirêj bû, bes e êdî.
+kmr_05554	Lanet lê be, min berçavka xwe danî ku derê?
+kmr_05555	Divê tu çewtiya xwe bipejirînî.
+kmr_05556	Ez zarayê soranî dizanim.
+kmr_05557	Niha, çavên xwe veke.
+kmr_05558	Ez vê mijarê fêr dibim.
+kmr_05559	Wî dilê wê dizî.
+kmr_05560	Bavê min li ku ye?
+kmr_05561	Bi rastî jî viya dilê min şikand.
+kmr_05562	Sê zarokên wan hene.
+kmr_05563	Ji nexweş re êşbir divê.
+kmr_05564	Dilekî wê yê zêrîn heye.
+kmr_05565	Ma divê ez her tiştî ji Tomî re bibêjim?
+kmr_05566	Di demeke nêz de tu yê xeberê ji me bistînî.
+kmr_05567	Wê dilê xwe rijand.
+kmr_05568	Ew pir nên dixwe, efiyeta canê wî be.
+kmr_05569	Ev pênûseka sor e.
+kmr_05570	Di laşê we de gelek hestî hene.
+kmr_05571	Ez çekî baş fêr dibim.
+kmr_05572	Çavên şîn wekî çavên xezalan.
+kmr_05573	Ali birayê min e.
+kmr_05574	Misilman hemû roja înê diçin mizgeftê.
+kmr_05575	Lê serma hebû û vê serma jî bi xwe re seqemeke pir hişk dianî.
+kmr_05576	Li ser wê nefela nerm dilîzin her direvin.
+kmr_05577	Herî zêde hûn ji kîjan lîstokê hez dikin?
+kmr_05578	Armanca me wergirtina wan e.
+kmr_05579	Kêm zêde çîrçîrok zîndiya xwe hê jî di nav gel de berdewam dike.
+kmr_05580	Yên ku çîrçîrokan xweş digotin ku li malê bûna, bangê wî çîrokbêjê dikirin.
+kmr_05581	Di malbata we de kesek firoşkar heye?
+kmr_05582	Hûn mala xwe paqij dikin?
+kmr_05583	Di rêya mirov de çi heye wê bibîne.
+kmr_05584	Di civaka Kurd de pirsgirêkên giran, bi seydayan tên safî kirin.
+kmr_05585	Hûn mûriyan nas dikin?
+kmr_05586	Ji dûr ve dengê saeta dêrê dihate bihîstin.
+kmr_05587	Di dema şerê de.
+kmr_05588	Lê ez, xwe di nav beşa yekê de dibînim.
+kmr_05589	Di dîrokê de li dij tevahiya zextên mêtîngerî, disa jî li ser piya mabû.
+kmr_05590	Piştevaniya bê navber, ev pirsa xistiye rojevê.
+kmr_05591	Lê belê ev yek dikare çawa pêk were?
+kmr_05592	Havînan em diçin Wanê.
+kmr_05593	Em gotinên têkildarî hev, bi xêzikan bigihînin hev.
+kmr_05594	Aboriya gundiyan bi piranî li ser bendavê ye.
+kmr_05595	Dengê defê ji dûr xweş tê.
+kmr_05596	Ziman jî di civakê de têkiliyan bi hev re çê dike.
+kmr_05597	Ez daxwazek ji we dixwazim.
+kmr_05598	Kurê min hîna jî hûn pir dereng nema ne.
+kmr_05599	Em amûra telefonê çawa bi kar tînin?
+kmr_05600	Em kiteyan bixwînin, paşê wan bi hev ve girê bidin.
+kmr_05601	Rojî ji bo Xwedê tê girtin.
+kmr_05602	Jina xwe têr ke, diya xwe razîbike.
+kmr_05603	Ziman xweş e, lê zik reş e.
+kmr_05604	Derdor germ dibû û bi germê re jî hewa hinek xweş dibû.
+kmr_05605	Di rojiyê de merivê hejar û dewlemend pir xuya dibe.
+kmr_05606	Ji ber kare malê biderengî şîva xwe dixwarin.
+kmr_05607	Tiştên ku dixwazim, bi awayekî kurt û watedar dibêjim.
+kmr_05608	Hinek tişt hene ku divê em wan pêk bînin.
+kmr_05609	Lawir û mirov jiyana xwe bi şînatiyan didomînin.
+kmr_05610	Lê di hin waneyan de lawaz im, bi taybet bîrkarî.
+kmr_05611	Diriyan bi destê meriva derdixe.
+kmr_05612	Postexane li ku ye?
+kmr_05613	Ji zû ve ye me hev nedîtiye.
+kmr_05614	Di vê meha rehmetê de du cejn têne pîroz kirin.
+kmr_05615	Nifteyek jê ji yên din mezintir, sê qat mezintir e.
+kmr_05616	Min bi malbata xwe re taştê xwar.
+kmr_05617	Dema ku ew ji xewê rabû, me jê re got.
+kmr_05618	Kekê heyran, ka seyareya min?
+kmr_05619	Şandeya bazirganiya Wanê, serdana Hewlêrê dike.
+kmr_05620	Pêwîst e em mafên xwe nas bikin.
+kmr_05621	Min çar salan li zanîngehê pirtûk xwendin.
+kmr_05622	Ez xwe di rewşeke kambax de his dikim.
+kmr_05623	Geh min dida pey wan.
+kmr_05624	Niha pereyên min qediyan.
+kmr_05625	Ev pêkanîn, wekî sûcê mirovahiyê şîrove kiribûn.
+kmr_05626	Li erd, ziyan û bexçe mêze dikir.
+kmr_05627	Dibistan cihê perwede û ferkirinê ye.
+kmr_05628	Ez dixwazim goşt bixwim.
+kmr_05629	Şeva te wek cil be.
+kmr_05630	Îşev xalanên min serdana me kirin.
+kmr_05631	Rêviyê geriyayî ji şêrê veketî çêtir e.
+kmr_05632	Hûn herî zêde ji kîjan demsalê hez dikin?
+kmr_05633	Dayê, dibistana me pir xweş bû.
+kmr_05634	Dîtin û gotin ne wek hev e.
+kmr_05635	Vaye ez yekî wiha me.
+kmr_05636	Malbata êrîşkaran, biryara barkirinê girt.
+kmr_05637	Ev yek li gor lêkolînên zanistî jî hatiye pejirandin.
+kmr_05638	Wê paşîva te penêr be.
+kmr_05639	Li ser zimanên ku li Tirkiyê tên axaftin, kêm lêkolîn hene.
+kmr_05640	Werzîş mejî çalak dike.
+kmr_05641	Min xwe da derî; ez ketim hundir.
+kmr_05642	Em bi xwe, xwe bi xwe.
+kmr_05643	Jixwe rojnivîskên derbeya leşkerî ku derketin holê jî, vê yekê nîşan didin.
+kmr_05644	Di herêmên me de olên cuda hene.
+kmr_05645	Oda xwe bide hev.
+kmr_05646	Kombers û telefon jî pir tên bikaranîn.
+kmr_05647	Beriya ku ji malê derkevim çenteyê xwe amade dikim.
+kmr_05648	Lê min cenabê te nas ne kir.
+kmr_05649	Di çiyê de asê dibûn.
+kmr_05650	Bi hezaran salan di şer de herwiha çekeke girîng bûye.
+kmr_05651	Cara yekem jî dikana berçavkê vebûye.
+kmr_05652	Êrîşên li cêwîbircan, deriyên demeke nû vekirin.
+kmr_05653	Serkeftin ji me re xwestin.
+kmr_05654	Ava ku em vedixwin jî pêwîst e paqij be.
+kmr_05655	Nepeniyên wî hene tim vedişêre.
+kmr_05656	Ev pêşangeh, bi hevkariya Elmanya tê pêkanîn.
+kmr_05657	Çima em jê hez dikin û rêzê jê re digirin?
+kmr_05658	Lê ez bawerim ku ev, ne kevneşopa me ye.
+kmr_05659	Yê ku te dike evîndar çi ye?
+kmr_05660	Xwendina seretayî, li gund bi dawî anî.
+kmr_05661	Derbas dikin rojên germ.
+kmr_05662	Heya heriya jin û mêr ji hev nebe hevdu nagre.
+kmr_05663	Armanca germbûnê ew e ku xwendekar ji aliyê ve bê amadekirin.
+kmr_05664	Li wir pal dabû, rûdinişt.
+kmr_05665	Weke tê zanîn, li rojava di Serdema Navîn de jin, hatine cezakirin.
+kmr_05666	Her zarok xwedî mafên perwerdeyê ye.
+kmr_05667	Car jî ku jê bihata wê ji zarokên xwe re bigotana.
+kmr_05668	Goştê ji cemedê derketiye bidin ser ocaxê.
+kmr_05669	Ji bo ku em ji bişaftinê rizgar bibin.
+kmr_05670	Keran çêkir hespa jî xwar.
+kmr_05671	Êvara we xweş be.
+kmr_05672	Em deyndarên dayîkên xwe ne.
+kmr_05673	Ku şev li pişt be îş çi tişt e.
+kmr_05674	Ji bo vê, pêwîst e em dema xwe li gorî kar birêkûpêk bikin.
+kmr_05675	Ew ji xwendinê pir hez dike.
+kmr_05676	Li pêşiya her rêzekê gogên biçûk tên belavkirin.
+kmr_05677	Wî, bi rakirina alaya kesk û sor û zer tawan kiriye.
+kmr_05678	Di depoya ku biser de hatiye girtin de gelek çek hate bi dest xistin.
+kmr_05679	Hetanî şeş meha pitikên xwe bi şîrê dê xwedî bikin.
+kmr_05680	Çîrçîrok di nîvantiyê de jî gelek xweş bû.
+kmr_05681	Divê hemû kes, di vê pêvajoyê de peywir bigirin.
+kmr_05682	Em jî bi filimên biyanî dijîn.
+kmr_05683	Tîrêjên roja li ber ava, hundirê odeyê ronî kiribû.
+kmr_05684	Di navbera wan tîman de, toreke ji erdê bilind dike.
+kmr_05685	Tenê ew bû ya giran.
+kmr_05686	Em guhdar bikin, paşê bersivê bidin.
+kmr_05687	Ya ku trafîka bajêr sererast dike, asayîş e.
+kmr_05688	Hê zimanê Kurdî ne fermî ye.
+kmr_05689	Devikê tabûtê dîsa vebû.
+kmr_05690	Min bi kêmasî be jî min xwend.
+kmr_05691	Min, kurteçîroka wî ya li ser penaberekî xwend.
+kmr_05692	Welatê te ku der e û tu ji kîjan gelî yî?
+kmr_05693	Dema bi Kurdî diaxifîm, ez hinekî tengav dibûm.
+kmr_05694	Çiyayek pir mezine û bilind e.
+kmr_05695	Ku meriv here bazargehê.
+kmr_05696	Rengên vekirî pirtir bala min dikişînin.
+kmr_05697	Tu li ber xwe neketî.
+kmr_05698	Pereyê dida çixareyê daba kitêban jî wî re çêtir bû.
+kmr_05699	Ez ê berhev bikim.
+kmr_05700	Ew li ber ketine.
+kmr_05701	Yê ji zikê xwe hez dike, hevalê xwe wenda dike.
+kmr_05702	Wan bêriya zanîngehê kiriye.
+kmr_05703	Pergala cîhanê li ser kapîtalîzmê hatiye avakirin.
+kmr_05704	Ez ê bi dest nexim.
+kmr_05705	Ez birçiyê te me.
+kmr_05706	Wî bêriya zanîngehê kiriye.
+kmr_05707	Kê porê te çê kir?
+kmr_05708	Malbatên wendahiyan, çalakiyeke girseyî pêk anîn.
+kmr_05709	Hûn li ber ketin.
+kmr_05710	Ez bi paş ve vegeriyam.
+kmr_05711	Mirovekî nebaş e lê ji min ditirse ku xerabiyan bike.
+kmr_05712	Tu yê berhev nekî.
+kmr_05713	Ew li ber xwe nakevin.
+kmr_05714	Min ji bo Tomî sêçerxeyek kirî.
+kmr_05715	Tu bavê wê nas dikî?
+kmr_05716	Wî, daxwaza ji nû ve darizandinê kir.
+kmr_05717	Rojê carekê hebên xwe bixwe.
+kmr_05718	Min bêriya te kir.
+kmr_05719	Deh kes li vir in.
+kmr_05720	Xwe avêtiyê dest û piyê te.
+kmr_05721	Ez ji wî bawer dikim.
+kmr_05722	Ez ber bi navenda bajêr ve diherim.
+kmr_05723	Dema zewaca min hatiye.
+kmr_05724	Dilê min diçe goşt.
+kmr_05725	Moza kesk pê vedaye.
+kmr_05726	Ez ê her tiştî li hev bînim.
+kmr_05727	Wê alî te kir.
+kmr_05728	Ev goreya nû neqişandî ye.
+kmr_05729	Ez şahiyê ji bo te dixwazim.
+kmr_05730	Serî jê re hejand.
+kmr_05731	Ma tu mecbûr î vêya xilas bikî, niha dev jê berde.
+kmr_05732	Kovara me jî bi dildarî bi rêve diçe.
+kmr_05733	Karên lêkolînê, hertim wext û kedeke mezin dixwazin.
+kmr_05734	Di demeke nêzîktirîn de.
+kmr_05735	Em di nava rojekê de, çi karî dikin?
+kmr_05736	Li Agiriyê dest bi xwendinê kir û Lîseyê li wir qedand.
+kmr_05737	Tim hesinê xwe lê dixe.
+kmr_05738	Bîne bîr û heşê xwe.
+kmr_05739	Xeyalên zarokên xwe berfireh dikirin.
+kmr_05740	Stonêrê: Me çawan hela niho bala xwe ne da bûyê?....
+kmr_05741	Ez deh salî me.
+kmr_05742	Mûrî pir ji kar û xebatê hez dikin.
+kmr_05743	Niha wêjeya Kurdî, ji nû ve vejiya û geş bû.
+kmr_05744	Gotina xweş, mar ji kuna wî derdixe.
+kmr_05745	Di buharê de hin caran ro, hin caran jî baran e.
+kmr_05746	Piştî ku Zozan çû Amedê, bavê wê xebera reş jê re got.
+kmr_05747	Bila di Zagona Bingehîn de hin tiştan biguherînin.
+kmr_05748	Em derî û pencereyên refa xwe vekin.
+kmr_05749	Bijîşk serê xwe hejand û ev bersiv da.
+kmr_05750	Kilam û meseleyan dibêjin.
+kmr_05751	Li gor rêjeyên van saziyan, bi dehan zarok, jiyana xwe ji dest didin.
+kmr_05752	Erê, vê biharê çi kir û çi nekir!
+kmr_05753	Ji bo pîrozkirina cejinan, amadekariyên cur bi cur tên kirin.
+kmr_05754	Min û zarokê xwe temaşe dikî, li bendê yî.
+kmr_05755	Serê salê binê salê.
+kmr_05756	Em, Amerîkayê wek berpirsiyar dizanin.
+kmr_05757	Gelek pirsên min hene divê ji te bipirsim.
+kmr_05758	Demeke dirêj lê temaşe nekin.
+kmr_05759	Ku zimanê me ji destê me here.
+kmr_05760	Mêrxasî û tirxesî ne yek in.
+kmr_05761	Ez ê çermê wisa li ku bibînim?
+kmr_05762	Tu refa çendan î?
+kmr_05763	Di nava xaka rojavayê Kurdistanê re derbas dibin.
+kmr_05764	Mirovekî oldar û dinyadîtî bû.
+kmr_05765	Di van rojên em tê de ne, li Emerîkayê hilbijartin hene.
+kmr_05766	Hêzên navneteweyî jî, li hemberî gelê kurd, nirxên gerdûnî bin pê kirin.
+kmr_05767	Bi salane ev alîgiran, di nav xwe de bi hev re şer dikin.
+kmr_05768	Em dilê xwe bi werzişê çalak dikin.
+kmr_05769	Ji bo çûn û hatineke biewle, hinek pîvanên veguhezînê hene.
+kmr_05770	Avakirin û sazkirina her medeniyetan bi çandê ye.
+kmr_05771	Pêdiviya hemû mirovan bi koleyan heye.
+kmr_05772	Kengî ku ew çû, ez ê werim ba te.
+kmr_05773	Ev rewşa çanda me ya çîrokan wenda dike.
+kmr_05774	Ev jî li ser roj û şevê tê parvekirin.
+kmr_05775	Navçe û gundên ku di nav kitêbê de hatiye nivîsandin.
+kmr_05776	Bûk û zarokên me bi Tirkî qîsan dikin.
+kmr_05777	Bi vebûna dibistanê, hestên xwe bînin ziman.
+kmr_05778	Mixabin ev jî kurmê wan ê biçûk e.
+kmr_05779	Lê ma nabe romanek jî?
+kmr_05780	Dibe ku sazûman îro zimanê me nahesîbîne.
+kmr_05781	Di cîhana hunerî ya Kurdî de, gelek hunermendên hêja hene.
+kmr_05782	Pêşketin, serkeftin û hatina vê rojê, wisa çêbû.
+kmr_05783	Mêwe ji bo laşê me baş in.
+kmr_05784	Bûk li ser hespê ye, kesek pê nizane ku nasîbê kê ye.
+kmr_05785	Bila ew be bila hew be.
+kmr_05786	Ew ê li cem nasekî bimîne.
+kmr_05787	Divê şaredarên me jî ji bo gel xizmetê bikin.
+kmr_05788	Paşê serê werîs girt û ew kişand.
+kmr_05789	Zimanê tirkan, zimanê fermî yê Tirkiyeyê ye.
+kmr_05790	Nêrînên dapîrê çawa ne?
+kmr_05791	Ew bikarhênera, pir gotaran tomar dike.
+kmr_05792	Qey leşkerê Artêşa Sor dîl dikeve?
+kmr_05793	Zimanê Kurdî jî niha li ber xeterê ye.
+kmr_05794	Ji bo em teduristiya xwe biparêzin.
+kmr_05795	Bêvil, em bi vî lebatî bêhina xwe didin û distînin.
+kmr_05796	Li her devera cîhanê cihêkariya li hemberî jinê di asteke xeter de ye.
+kmr_05797	Rojek li min nafikirin.
+kmr_05798	Di demeke kin de, gelek projeyên girîng birêve bir.
+kmr_05799	Naxira gund vedigere malê.
+kmr_05800	Durûtiya wî, di van têkiliyên qirêj de veşartiye.
+kmr_05801	Lê xwarinên ku em bixwin pêwîst e baş û pak bin.
+kmr_05802	Neyarê bavan nabe dostê lawan.
+kmr_05803	Em çixareyê vedixwin û disekinin.
+kmr_05804	Fadil zû mezin dibû.
+kmr_05805	Eşkere ye, ew naşixule.
+kmr_05806	Tiştê qewimî ne şaşiya tom bû.
+kmr_05807	Karîn navekî Almanî ye.
+kmr_05808	Ez ji ser navê te fedî dikim.
+kmr_05809	Tu dikarî bi Kurdî biaxivî?
+kmr_05810	Pêwendiyê li gel wî ava bike.
+kmr_05811	Herî dawî te kengî neynûkên xwe jê kirin?
+kmr_05812	Ka em xwe çeng bikin.
+kmr_05813	Biryar di destê te de ye.
+kmr_05814	Li Kurdistanê bi kurdî diaxivin.
+kmr_05815	Gelek hestiyên vî masiyî hene.
+kmr_05816	Porê bebeka min dirêj e.
+kmr_05817	Ez dixwazim te hembêz bikim.
+kmr_05818	Hûn ê vê bi kar bînin?
+kmr_05819	Ez rojê carekê serê xwe dişom.
+kmr_05820	Bêdengî carinan tê maneya razîbûnê.
+kmr_05821	Dilê te pak e.
+kmr_05822	Ev di şevekê de nabe.
+kmr_05823	Hûn dixwazin vê odeyê jî boyax bikin?
+kmr_05824	Wê hemû alavên xwe firotin ji bo kûçikê xwe têr bike.
+kmr_05825	Ez ditirsim ku wê bixwim.
+kmr_05826	Min ew di nava girseyê de dît.
+kmr_05827	Wî destê xwe da porê wê.
+kmr_05828	Ez mirim ji ber serêşa xwe.
+kmr_05829	Wî stranên koçberiyê gotin.
+kmr_05830	Kê ji wan re got ku vê bikin?
+kmr_05831	Navê min Ehmed e.
+kmr_05832	Vê xwarinê tahm bike.
+kmr_05833	Min ji xwe re kûçikek kirî.
+kmr_05834	Saeta xerabe jî rojê du caran rastiyê rê dide.
+kmr_05835	Ez bêhal im, radikevim.
+kmr_05836	Ez ji ser navê te şerm dikim.
+kmr_05837	Tu naçî, ne wisa?
+kmr_05838	Ez ji birçîbûna xwe dimirim!
+kmr_05839	Tu li ber xwe ketiyî.
+kmr_05840	Ew bi dest dixin.
+kmr_05841	Odeya xwe bide hev.
+kmr_05842	Min şaş fam neke birano.
+kmr_05843	Min bi dest xistiye.
+kmr_05844	Min xwe gihand otobûsa dawîn.
+kmr_05845	Wî bi dest xistiye.
+kmr_05846	Em kincên xwe yên zivistanê nema li xwe dikin.
+kmr_05847	Wê bi dest xistiye.
+kmr_05848	Wan heta niha gelek gavên yekalî avêtin.
+kmr_05849	Bi merivên mezin re mezin.
+kmr_05850	Ger diran biêşe, derman kêş e.
+kmr_05851	Zimanê xwe bibire cihê xwe bikire.
+kmr_05852	Lê niha ez di çi halî de me.
+kmr_05853	Hê bîna sîra ji dev tê.
+kmr_05854	Ewr çi reng E?
+kmr_05855	Li Amedê çalakî didomin.
+kmr_05856	Lîsteyên hilbijêran, cardin hatin daliqandin.
+kmr_05857	Mala fireh, çekê fireh, dilê fireh.
+kmr_05858	Dema hûn diçin gulîstanê, hûn çi dikin?
+kmr_05859	Lê min nikarî bû bi awakî din bikira.
+kmr_05860	Mirov carinan li ser dahatûyê difikire.
+kmr_05861	Keskesor, tîrojên ro yê ye.
+kmr_05862	Du sal in dixwest çermê miyê bikire.
+kmr_05863	Di nav hemû mamosteyan de herî zêde ji wî hez dikim.
+kmr_05864	Em gihaşti bûn ber pencera ko çira lê bû.
+kmr_05865	Ev mamoste, dersa zimanê Kurdî dide.
+kmr_05866	Qey hûn nizanin Resûlê Xwedê di derheqê wî de çi gotiye?
+kmr_05867	Ew ji malê derketin.
+kmr_05868	Kurê min, rewşa we û yê min ne baş e.
+kmr_05869	Dinya siya darê ye.
+kmr_05870	Hûn ji bo xwe çi dikin?
+kmr_05871	Ji herkesî re yek car e.
+kmr_05872	Em valahiyên li jêr bi hejmaran dagirin.
+kmr_05873	Em bi hev re dikarin van keviran li goşeyekê kom bikin.
+kmr_05874	Wê li pê te xulamê te hebûna.
+kmr_05875	Kurdên li Parîsê, ji bo pîrozkirina Cejna Newrozê civiyane.
+kmr_05876	Zarok bi terawihê gelek kêf û geş dibin.
+kmr_05877	Xewnereşk li ser min bû.
+kmr_05878	Destên me, li her du rexên laşê me cih digirin.
+kmr_05879	Ciwanî pir hêrs bûbû.
+kmr_05880	Ji vê pelê re raçête tê gotin.
+kmr_05881	Piştî ku ev bûyera qewimî, min biryara xwe da.
+kmr_05882	Em dibînin ku ji sê beşan pêk tê: serî, gewde, dest û ling.
+kmr_05883	Girseyên gel, ji danê sibê ve, ber bi taxê ve meşiyan.
+kmr_05884	Li vir li hemberî min, pêkanîneke kêfî heye.
+kmr_05885	Hezkirina wê roj bi roj di dilê me de mezintir dibe.
+kmr_05886	Ango bi giştî, divê binesazî bê guhertin.
+kmr_05887	Cihê ku em dixwazin bibînin û binasin, dê ne hêsan be.
+kmr_05888	Siheta te xweş be.
+kmr_05889	Li gel vê yekê jî kurdî, bi berxwedaneke xwezayî li piya maye.
+kmr_05890	Ji bo siberoja zarokên kurd ronî be.
+kmr_05891	Derbarê vê çandê de zanyariyên we hebin, binivîsin.
+kmr_05892	Derbas bibe rûnê zilamê ciwan.
+kmr_05893	Bûk anî bi lez û bez, sivika malê her tim ez.
+kmr_05894	Hûn bi zarok û jinên xwe re qise û galegalan dikin.
+kmr_05895	Hezkirina tornên min di dilê min de maye.
+kmr_05896	Zarok mirovan dibe ber deriyê dijmin.
+kmr_05897	Di navbera cerdevanan de jî aloziyên mezin diqewimin.
+kmr_05898	Ji herkesî re şerbet e.
+kmr_05899	Fêrbûna peyvên bijarte, ne karê rojekê bû.
+kmr_05900	Hûn ne baş in.
+kmr_05901	Ev destpêkeke hînbûna matematîkê ya bi kurdî ye.
+kmr_05902	Ez ê li ser hûr bibim.
+kmr_05903	Mal tê, can nayê.
+kmr_05904	Kîjan a herî kêm e?
+kmr_05905	Min û Holmes me li ser îşê xwe xeber dida.
+kmr_05906	Careke din qal neke.
+kmr_05907	Divê em qet xwe şaş nekin.
+kmr_05908	Li derdora xwe binêre.
+kmr_05909	Nikaribû çavê xwe veke.
+kmr_05910	Ne deyndar be ne maldar be.
+kmr_05911	Lêbelê ew jî êdî bûbû mêr.
+kmr_05912	Spas, ez jî baş im.
+kmr_05913	Ji kerema xwe ra vî şekirî ji vir rake!
+kmr_05914	Di vê demsalê de baran dest pê dike.
+kmr_05915	Ez bîst û du salî me.
+kmr_05916	Bawer nakim ku were.
+kmr_05917	Ez dizanim tu kî yî.
+kmr_05918	Kurê min îja bîr dibe.
+kmr_05919	Ne ew qas baş e.
+kmr_05920	Wê sersala te bê dendik be.
+kmr_05921	Kêfa min pir ji sînemayê re tê.
+kmr_05922	Ew ê we serwext bikin.
+kmr_05923	Boston ciyekî pir xweş e.
+kmr_05924	Bavê min li vir kar dike.
+kmr_05925	Te ev gîtar ji ku derê kiriye?
+kmr_05926	Yekî dilê te şikand?
+kmr_05927	Wir ne pol e.
+kmr_05928	Ew xwediyê dilekî nerm û germ e.
+kmr_05929	Ez dixwazim biçim bi Tomî re biaxivim.
+kmr_05930	Ez li daristanê me.
+kmr_05931	Ev ne di derbarê wan de ye, ma ne?
+kmr_05932	Navê min Ezîz e.
+kmr_05933	Bavê min em birin bexçeyê ajalan.
+kmr_05934	Ji şer re na!
+kmr_05935	Tu bi kurdî dizanî?
+kmr_05936	Wî hêdîka serê xwe hejand.
+kmr_05937	Tu mamosteya qîza min î.
+kmr_05938	Ez hez dikim wêneyan bikişînim.
+kmr_05939	Neh hezar û neh sed û nod û neh û zêdek yek dike hezar.
+kmr_05940	Me jî alî wan kir.
+kmr_05941	Dema te dest bi meşê kir, tu çend salî bû?
+kmr_05942	Ji kerema xwe, çavên xwe bigire.
+kmr_05943	Dilê min lê dida.
+kmr_05944	Min dizanîbû ku dikarim ji wan bawer bikim.
+kmr_05945	Ez dizanim çi hewce ye ji bo serketinê.
+kmr_05946	Ez meraq dikim ka çi wî ditirsîne.
+kmr_05947	Tometek hevalên min hene.
+kmr_05948	Tu vê yekê her tim dikî?
+kmr_05949	Ez qet evîndar nebûm.
+kmr_05950	Rastî tal e, derew şêrîn e.
+kmr_05951	Ez te dibînim kûçiko.
+kmr_05952	Gelo ez dikarim vê telefonê bi kar bînim?
+kmr_05953	Porê wê kin e.
+kmr_05954	Ew ji aliyê polîsan ve hat birin.
+kmr_05955	Bi ya min fezayî hene.
+kmr_05956	Xêra xwe tu dikarî li ber zarokan bî?
+kmr_05957	Pisîk ne li mal be, daweta mişkan e.
+kmr_05958	Te dilê wê şikand.
+kmr_05959	Delalê çîrokeka kurt nivîsî.
+kmr_05960	Kî dizane ev ji çi re dibe?
+kmr_05961	Heft canên pisîkekê hene.
+kmr_05962	Ez aniha bimirim ew ê çi bibe, nemirim ew ê çi bibe?
+kmr_05963	Divê tu bi dû min bikevî.
+kmr_05964	Ji camêriya xwe bawer e.
+kmr_05965	Ew emeliyata dil bû.
+kmr_05966	Divê ez qezenc bikim.
+kmr_05967	Bizîvire çepê û rast here.
+kmr_05968	Maseyê dest bi axaftinê kir.
+kmr_05969	Em dizanin av di sed dereceyî de dikele.
+kmr_05970	Ev alav di mal û kargehan de dihatin bikaranîn.
+kmr_05971	Derhênerê Kurd, li gelek festîvalan xelatên mezin bi dest xistine.
+kmr_05972	Ji bo vê yekê, bernameya xwe zelal kir.
+kmr_05973	Li serî por tune.
+kmr_05974	Golik navê naxirekî xerab dike.
+kmr_05975	Hin hûrgiliyên derbarê belavbûna nexweşiyê hîn jî hewceyê aşkerakirinê ne.
+kmr_05976	Li dibistanê pêjna Ronî nedihat.
+kmr_05977	Ji nêrînên hev re rêz bigrin.
+kmr_05978	Xwendevanên delal û bi rûmet!
+kmr_05979	Di nava malbatê de, her kes xwediyê mafê xwendinê ye.
+kmr_05980	Piranî jin û karker çalakî û şahiyan li dar dixin.
+kmr_05981	Ji wan rojên girîng û pîroz re cejin tê gotin.
+kmr_05982	Carna dihatin nav gund.
+kmr_05983	Rayedar, kîjan erkî bi çi awayî dimeşîne.
+kmr_05984	Min ji Holmes pirsî: Ev çi ye?
+kmr_05985	Ji ber ku mirov civakî ye.
+kmr_05986	Gelê kurd xwedî ax û welatê xwe ye.
+kmr_05987	Xem nexwe hêvî tim zindî ne.
+kmr_05988	Ji min re hinek dibêjin Seyda.
+kmr_05989	Çend sale ku hûn pirtûkê Qur’anê çê dikin?
+kmr_05990	Hinek hevkarên me ji bo cara yekemîn bi dûr ve dixebitin.
+kmr_05991	Çîma mêrik bi qasî dîrekekî qalind bû.
+kmr_05992	Şeva çûyî hewa germ bû.
+kmr_05993	Ka werin em bi hev re qadê ji keviran paqij bikin.
+kmr_05994	Hebûna wan, girêdayî hişê mirov e.
+kmr_05995	Berî ku ew li we bidin, hûn li wan bidin.
+kmr_05996	Ez li zanîngehê dixebitim.
+kmr_05997	Êdî kincên xwe, ez bi xwe li xwe dikim.
+kmr_05998	Ez bi saya wan dixwînim.
+kmr_05999	Tu li kargeha xwe de bi zimanê kê qise dikî.
+kmr_06000	Yên ku sax man li saxiyên xwe geriyan.
+kmr_06001	Her çi qasî hewl dida xwe bigihîne hevalên xwe.
+kmr_06002	Bi gotineke din bala min kişand.
+kmr_06003	Di dolabê de çend hêk hene?
+kmr_06004	Ez dê taştê li ba te bixwim.
+kmr_06005	Ev jin ne ji Sûriyeyê ye.
+kmr_06006	Ev ne pênûs e.
+kmr_06007	Ma tu werê dihizirî?
+kmr_06008	Navê berhema Ehmedê Xanî, Mem û zîn e.
+kmr_06009	Ev rewşa ku niha em dibînin, ne asayî ye.
+kmr_06010	Li ser axa wî pir xwîn rîjiyaye.
+kmr_06011	Tu dikarî bikî, ez meraq dikim.
+kmr_06012	Li ser soza xwe bisekine!
+kmr_06013	Zimanê kurdî, di jiyana rojane ya gel de gelek lawaz bûye.
+kmr_06014	Ev pirtûk ji bo dibistanan hatiye pejirandin.
+kmr_06015	Ji gelê xwe re gotin û şîret kirine.
+kmr_06016	Ez dixwazim careke din te bibînim.
+kmr_06017	Ey welat! Ji hebûna te re ez heme.
+kmr_06018	Keçik jî diqîre û bi dengekî bilind dibêje.
+kmr_06019	Çawa em ê li tenduristiya xwe baldar bin?
+kmr_06020	Valahiyên li jêr dagirin.
+kmr_06021	Li çiyayên Kurdistan tev bûye mij û moran.
+kmr_06022	Cara yekem navê min di wê hejmarê de derket.
+kmr_06023	Roj çi reng e?
+kmr_06024	Xweş tê guhê mere!
+kmr_06025	Ez dixwazim kurdî hîn bibim.
+kmr_06026	Kesên ehmeq nikarin ti îşî bikin.
+kmr_06027	Em li ku ne?
+kmr_06028	Ez ji zimanê Kurdî hez dikim.
+kmr_06029	Gelo hûn diçin cem hev?
+kmr_06030	Gotina min û wî ne yek e.
+kmr_06031	Gaza hesteyê min nema ka ji xwe re niftikekê bikirim.
+kmr_06032	Hema bibêje me li erdê dîtiye.
+kmr_06033	Ma zimanê te kul e.
+kmr_06034	Ez wan nas dikim.
+kmr_06035	Erê ez werê dihizirim.
+kmr_06036	Yekî feqîr e lê tiştên buha dixwaze.
+kmr_06037	Rûyê wê nerm e.
+kmr_06038	Gelo tu hîç hatiyî amerîkayê?
+kmr_06039	Kumê min ji rastiyê qetiyaye.
+kmr_06040	Ez ê fêr bibim.
+kmr_06041	Bila çîma min neşdîne ha, li gor wê!
+kmr_06042	Civîn kengî dest pê dike?
+kmr_06043	Ez dikarim hez bikim.
+kmr_06044	Li hevalên xwe jî bifikire.
+kmr_06045	Berde binê te erd e.
+kmr_06046	Belê ez ji xwe bawer im.
+kmr_06047	Roja din qet neyê.
+kmr_06048	Ma te ev qencî kir, çi ji te kêm bû!
+kmr_06049	Rojbînê stranek bi navê Evîna Mem û Zîn derxist.
+kmr_06050	Tu îro çawa yî?
+kmr_06051	Ne niha, ez ê piştre werim.
+kmr_06052	Em hatin mala hevala xwe.
+kmr_06053	Heyetê serdana şaredariyê kir.
+kmr_06054	Ji ber tiştekî dudil bûye û ketiye gumanê.
+kmr_06055	Ew ne dar e, ne jî dêwê gulberoşk e.
+kmr_06056	Ew jî bi min re.
+kmr_06057	Wek hunermend, çi hêviya we ji paşerojê heye?
+kmr_06058	Xwarina ku bidim serxweşên mîna we tune.
+kmr_06059	Pişko ku bi zanîstî jî nebe, lê çîrokeke ya ceribandî ye.
+kmr_06060	Çûye seferê lê hîna kerê berê ye.
+kmr_06061	We ew filîm dîtin?
+kmr_06062	Em ji nû ve derketin derve.
+kmr_06063	Bi hev re dest bi xwarinê kirin.
+kmr_06064	Em amade ne ku ji bo projeyek aşitiya civakî, fedekarî bikin.
+kmr_06065	Na min kar nekir.
+kmr_06066	Me hemû piştevanî, li bizavên çandî kiriye.
+kmr_06067	Me mêze dikir ku dewarên me çûnin.
+kmr_06068	Erebeyên destan, li hemberî tekonojiyê li berxwe didin.
+kmr_06069	Li dibistanê bi dema waneyên xwe pabend e.
+kmr_06070	Ev kes û derdor, dixwazin xeta netewe-dewletê pêş bixin.
+kmr_06071	Zanyarên Japon, makîneyekî ku nivîsan werdigerîne derxistin.
+kmr_06072	Ew, her wiha bi bîr dixe ku ev malbat, nîşana wê yekê ye.
+kmr_06073	Cejna te pîroz be.
+kmr_06074	Niha helbesta Kurdî di çi merhelê de ye?
+kmr_06075	Mamosteyê me helbest bi me da jiberkirin.
+kmr_06076	Ez mirim ji ber vê êşê.
+kmr_06077	Bi te nexweşiya dil heye.
+kmr_06078	Ev pirtûk a kê ye?
+kmr_06079	Ew nexweşî ji ber bakteriyan e.
+kmr_06080	Tu timî diçî Bostonê?
+kmr_06081	Serê salê nêzîk e.
+kmr_06082	Min dît ku zilamê pîr bi hestiyên mirîşkan kûçikê xwe têr dike.
+kmr_06083	Pêşî divê ez vî karî biqedînim.
+kmr_06084	Rojname li ku derê ye?
+kmr_06085	Ew ne pênûsa min e.
+kmr_06086	Tu îro pir betilî yî.
+kmr_06087	Em ê hefteyeke din jî li vir bin.
+kmr_06088	Divê ez porê xwe şeh bikim.
+kmr_06089	Yek ji bersivan rast e.
+kmr_06090	Ez yîdişî fêr dibim.
+kmr_06091	Keçan teva ji Tomî hez kirin.
+kmr_06092	Bejna min û ya Tomî yek e.
+kmr_06093	Ronahiyê veneke, ji kerema xwe!
+kmr_06094	Dilekî wê yê pak heye.
+kmr_06095	Hestiyê difinê Ehmed şikestiye.
+kmr_06096	Ziman bêhestî ye lê ji bo şikestina dilan bi têra xwe xurt e.
+kmr_06097	Ma ev agahî rast e?
+kmr_06098	Keça wê ya ciwan ne li vir e.
+kmr_06099	Tu yê bilind bibî.
+kmr_06100	Saeta xerabe jî rojê du caran rastiyê nîşan dide.
+kmr_06101	Ez ê li ber xwe bikevim.
+kmr_06102	Lazim bû min vêya qet çênekira.
+kmr_06103	Em ê li ber xwe nekevin.
+kmr_06104	Çavên te şîrîn in.
+kmr_06105	Ez ê baz nedim.
+kmr_06106	Ji min re çayekê bîne.
+kmr_06107	Ew ê bar nekin.
+kmr_06108	Em ê asê nekin.
+kmr_06109	Ew ê ba bide.
+kmr_06110	Hûn ê bar nekin.
+kmr_06111	Tu dê asê bikî.
+kmr_06112	Lê lingê wî ji herêma wî nedibû.
+kmr_06113	Em ê bar bikin.
+kmr_06114	Hûn ê li ba bikin.
+kmr_06115	Tu alî min dikî.
+kmr_06116	Ew ê bar neke.
+kmr_06117	Ew ê li ba bike.
+kmr_06118	Çivîk malên xwe ji çi ava dikin?
+kmr_06119	Ew li ba nakin.
+kmr_06120	Me rojeke xweş borand.
+kmr_06121	Ji ber ku pirsgirêka herî mezin, bi ziman û aqil tê çarekirin.
+kmr_06122	Wê alî min kiriye.
+kmr_06123	Zimanê Kurdî, ji bo Kurdan çiqas girîng e?
+kmr_06124	Wan, li bakûr, danûstandin û hinek hevdîtin kirin.
+kmr_06125	Min ew kirin terazû.
+kmr_06126	Ji bo vê yekê, hilbijartina xwarinê tiştekî ne baş e.
+kmr_06127	Çiya bê dar nabe.
+kmr_06128	Ango berdêla wê çi dibe bila bibe.
+kmr_06129	Îro rojnameya taraf, ji berpirsekî desteyê wisa veguhestiye.
+kmr_06130	Ew nikare xwe bide benda henekan.
+kmr_06131	Qîz û kuran ez ji bîr kirim.
+kmr_06132	Min: Min qet tu tişt ne bihîst.
+kmr_06133	Morî axa ku ji kuna xwe derdixin, li aliyê bakur kom dikin.
+kmr_06134	Jin an jî mêr, bi serê xwe wek karker hatin Almanyayê.
+kmr_06135	Şahî bi rengên netewî û wêneyên şehîdan hatibû xemilandin.
+kmr_06136	Di dema xwendina navîn de, bi saya keda xwe bi ser dikeve.
+kmr_06137	Ez di nav gul, şînatî û kulîlkan de dijîm û difirim.
+kmr_06138	Xwendekarê yekem ji her rêzekê, dest bi meşa li ser pêlikan dike.
+kmr_06139	Werzîş laşê me xurt dike û rê li pêşiya nexweşiyan digire.
+kmr_06140	Rewşa karê we çawa ye?
+kmr_06141	Ev, bêhna min teng dike.
+kmr_06142	Tu vê êvarê çi dikî?
+kmr_06143	Kes nizane ez li ku me.
+kmr_06144	Vî karî berdewam bike.
+kmr_06145	Kombers divê karta wan a ekranê baş bin.
+kmr_06146	Hûn çi qas pere tînin welêt?
+kmr_06147	Here ji wê bipirse.
+kmr_06148	Hûn dikarin belav bibin.
+kmr_06149	Hatina min bû sedema çûna wê.
+kmr_06150	Tu dê aciz bibî.
+kmr_06151	Ez vê yekê careke din nabêjim.
+kmr_06152	Komeke din ew ê bê vê derê.
+kmr_06153	Ez ê dev ji vî karê beradayî berdim.
+kmr_06154	Ka çi got, zû bawer neke.
+kmr_06155	Li xwe vegere û hişê xwe bide serê xwe.
+kmr_06156	Çûn heye lê veger tune ye.
+kmr_06157	Bila ciwanên me belawela nayên girtin.
+kmr_06158	Ez kengî dikarim dest pê bikim?
+kmr_06159	Dev ji gurmegurmê berde.
+kmr_06160	Saetekê li benda min bimîne.
+kmr_06161	Te alî min kir.
+kmr_06162	Ka fotografê xwe ji min re bişîne.
+kmr_06163	Tu çi dixwazî bide pê wê.
+kmr_06164	Tu ji kirina çi hez dikî?
+kmr_06165	Dibe ku ez hinekî çavbirçî bim.
+kmr_06166	Ev kûçikekî reş e.
+kmr_06167	Ma tu li Fransayê dijî?
+kmr_06168	Tenê guh bide dilê xwe.
+kmr_06169	Ez heyranê cesareta te me.
+kmr_06170	Dilekî wî yê zêrîn heye.
+kmr_06171	Bakterî li her derê ne.
+kmr_06172	Bavê te çi karî dike?
+kmr_06173	Min dît ku pisîkekê bera pê kûçikekî dida.
+kmr_06174	Gumana min ji vê sepanê nema.
+kmr_06175	Gur heta hestiyê xezalê jî xwar.
+kmr_06176	Ew xwediyê dilekî mezin e.
+kmr_06177	Ez jê bawer im ku ez ê bikarim vê bikim.
+kmr_06178	Ez tacikî fêr dibim.
+kmr_06179	Bakterî dikarin çi bikin?
+kmr_06180	Park tije ye bi zarokan.
+kmr_06181	Ez rûsî fêr dibim.
+kmr_06182	Ew stratejiya min bû.
+kmr_06183	Roviya zirav ji sê beşan pêk tê.
+kmr_06184	Dema ku mirov paqij be, zû nexweş nakeve.
+kmr_06185	Rastî tal e talî jî zor e.
+kmr_06186	Wê dilê wî şikand.
+kmr_06187	Ev ne giring e.
+kmr_06188	Newroza gelên Kurdistanê pîroz be!
+kmr_06189	Ew kurikek baş bû ji aliyê her kesî ve dihat hezkirin.
+kmr_06190	Mamosteyên me delal ciwan in.
+kmr_06191	Di vê germê de nikarim wê bikim.
+kmr_06192	Divê ez kar bikim li vê qadê.

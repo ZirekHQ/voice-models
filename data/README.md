@@ -5,10 +5,11 @@ external storage (see `docs/model-hosting.md`).
 
 ## Recording script
 
-The Kurmanji recording script is `kurmanji_recording_script.csv` with columns
-`id,batch,part,text` (ids like `kmr_00001`), split into 13 batch files of
-about 56 KB each for recording sessions. It is kept in the project's shared
-files under `recording-script/` for now.
+The Kurmanji recording script lives in [`recording-script/`](recording-script/):
+`kurmanji_recording_script.csv` with columns `id,batch,part,text` (ids like
+`kmr_00001`), split into 13 batch files of about one hour each for recording
+sessions. The text is CC0 1.0 (public domain); see
+[`recording-script/README.md`](recording-script/README.md).
 
 ## Manifests
 
