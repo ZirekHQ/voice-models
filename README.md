@@ -4,7 +4,12 @@ Training recipes, configs, datasets metadata and benchmarks for Kurmanji
 (Northern Kurdish, `kmr`) speech models used by Dengjen.
 
 This repo holds code and configuration only. Model weights live on Hugging
-Face and audio lives outside git; see [docs/model-hosting.md](docs/model-hosting.md).
+Face and audio lives outside git; see
+[Where weights and audio live](https://zirekhq.github.io/voice-models/next/model-hosting.html).
+
+Documentation: <https://zirekhq.github.io/voice-models/next/>. To record your
+voice for a new model, read
+[Record your voice](https://zirekhq.github.io/voice-models/next/record-your-voice.html).
 
 ## Layout
 
@@ -21,7 +26,7 @@ data/                Dataset docs and manifests (text only, no audio)
 eval/                Shared latency and quality benchmarks for every model
   sentences/         Fixed test sentences, kept out of every training set
   results/           Benchmark summaries, one file per model and run
-docs/                Cross-cutting notes (hosting, conventions)
+docs/                Antora docs, published to zirekhq.github.io
 ```
 
 Each engine folder uses the same shape: a `README.md` with how to train and

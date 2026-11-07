@@ -1,0 +1,53 @@
+= voice-models
+
+Training recipes, configs, dataset metadata and benchmarks for the Kurmanji (Northern Kurdish, `kmr`) speech models that xref:dengjen::index.adoc[dengjen] runs.
+The voices are built for blind people using NVDA, often at two to three times normal speed, so clarity and low latency come before expressiveness.
+
+The repository holds code and configuration only.
+Model weights live on Hugging Face and audio lives outside git; see xref:model-hosting.adoc[Where weights and audio live].
+
+== Current models
+
+[cols="1,1,1,2"]
+|===
+|Voice |Engine |Quality |Weights
+
+|berfin-renas
+|Piper
+|medium
+|https://huggingface.co/rojanu/piper-ku-berfin-renas-medium[rojanu/piper-ku-berfin-renas-medium]
+|===
+
+== Roadmap
+
+. Piper `berfin-renas` at `low` and `high` beside the existing `medium`.
+. Kokoro and other low-latency engines trained on the same data and compared against Piper on the shared benchmark.
+. More voices from new recordings of the recording script. To take part, see xref:record-your-voice.adoc[Record your voice].
+. Speech-to-text: a Whisper fine-tune for Kurmanji.
+
+== Repository layout
+
+----
+tts/                 Text-to-speech, one folder per engine
+  piper/             Piper (VITS) recipes, low / medium / high quality
+    voices/<voice>/  Per-voice config: speaker, dataset, HF repo, per-quality settings
+  kokoro/            Kokoro (StyleTTS2-based) experiments
+stt/                 Speech-to-text (planned)
+  whisper/           Whisper fine-tune
+data/                Dataset docs and manifests (text only, no audio)
+  recording-script/  Kurmanji sentences for speakers to record
+  manifests/         CSV/JSONL manifests pointing at audio stored elsewhere
+eval/                Shared latency and quality benchmarks for every model
+  sentences/         Fixed test sentences, kept out of every training set
+  results/           Benchmark summaries, one file per model and run
+docs/                This documentation
+----
+
+Each engine folder has the same shape: a `README.md` with how to train and export, and `voices/<voice-id>/` with one config per voice.
+Adding a voice means adding a folder, not changing engine code.
+
+== Naming
+
+* Voice id: lowercase, hyphenated speaker name, for example `berfin-renas`.
+* Hugging Face repo: `<engine>-ku-<voice>-<quality>`, for example `piper-ku-berfin-renas-high`.
+* Benchmark result: `eval/results/<engine>-<voice>-<quality>-<YYYY-MM-DD>.md`.

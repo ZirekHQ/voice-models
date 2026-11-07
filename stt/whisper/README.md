@@ -2,4 +2,4 @@
 
 Recipe, base model size and hyperparameters go here when work starts. Weights
 are published to Hugging Face like the TTS models (see
-`docs/model-hosting.md`).
+[`docs/modules/ROOT/pages/model-hosting.adoc`](../../docs/modules/ROOT/pages/model-hosting.adoc)).
