@@ -3,6 +3,7 @@ voice: berfin-renas
 language: kmr            # Northern Kurdish (Kurmanji)
 espeak_voice: ku
 dataset: TODO            # dataset name or manifest under data/manifests/
+credit: Recordings provided by Zarok TV (https://zarok.tv) in partnership with Zirek
 
 qualities:
   low:

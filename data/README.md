@@ -28,6 +28,6 @@ appear in a `train` split.
 
 ## Datasets
 
-| Name | Speaker(s) | Hours | Used by |
-|---|---|---|---|
-| berfin-renas | berfin-renas | TODO | Piper medium |
+| Name | Speaker(s) | Hours | Source | Used by |
+|---|---|---|---|---|
+| berfin-renas | berfin-renas | TODO | Recordings provided by [Zarok TV](https://zarok.tv) in partnership with Zirek | Piper medium |

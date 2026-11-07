@@ -39,6 +39,9 @@ means adding a folder, not changing engine code.
 |---|---|---|---|
 | berfin-renas | Piper | medium | [rojanu/piper-ku-berfin-renas-medium](https://huggingface.co/rojanu/piper-ku-berfin-renas-medium) |
 
+The berfin-renas voice is trained on recordings provided by
+[Zarok TV](https://zarok.tv) in partnership with Zirek.
+
 ## Roadmap
 
 1. Piper `berfin-renas` at `low` and `high` beside the existing `medium`.
