@@ -5,11 +5,11 @@ Training recipes, configs, datasets metadata and benchmarks for Kurmanji
 
 This repo holds code and configuration only. Model weights live on Hugging
 Face and audio lives outside git; see
-[Where weights and audio live](https://zirekhq.github.io/voice-models/next/model-hosting.html).
+[Where weights and audio live](docs/modules/ROOT/pages/model-hosting.adoc).
 
-Documentation: <https://zirekhq.github.io/voice-models/next/>. To record your
-voice for a new model, read
-[Record your voice](https://zirekhq.github.io/voice-models/next/record-your-voice.html).
+The docs under [`docs/`](docs/modules/ROOT/pages/) are published at
+<https://zirekhq.github.io/voice-models/next/>. To record your voice for a new
+model, read [Record your voice](docs/modules/ROOT/pages/record-your-voice.adoc).
 
 ## Layout
 

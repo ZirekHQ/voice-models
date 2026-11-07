@@ -24,7 +24,7 @@ Confirm it in your opening issue with the line "I agree to the recording terms".
 * *Licence.* You release your recordings under https://creativecommons.org/publicdomain/zero/1.0/[CC0 1.0], the same dedication as the sentences you read. Anyone may use, train on and redistribute them without asking or crediting you.
 * *Published voices.* Models trained on your recordings may be published and used by anyone, including other projects. A published model cannot be recalled.
 * *Withdrawal.* You can ask us to remove your recordings from the dataset at any time before they go into a training run. Once a model is released, your voice stays in it.
-* *Your data.* A voice identifies you. We keep your audio, your name or pseudonym, and your language. Only the maintainers can access them. They stay in the shared Drive folder until they go into a training run. To have your data deleted, open an issue on the {repo}/issues[voice-models repository].
+* *Your data.* A voice identifies you. We keep your audio, your name or pseudonym, and your language. Only the maintainers can access them. They stay in the shared Drive folder until they go into a training run. To have your data deleted, open an issue on the {repo}/issues[voice-models repository] that names only the pseudonym or credit you gave in your opening issue, never your real name or contact details if you have not already made them public.
 * *Credit.* You choose whether the voice credits you by name or does not name you. Say which in your opening issue.
 
 == What you read
