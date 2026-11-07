@@ -35,9 +35,12 @@ means adding a folder, not changing engine code.
 
 ## Current models
 
-| Voice | Engine | Quality | Weights |
-|---|---|---|---|
-| berfin-renas | Piper | medium | [rojanu/piper-ku-berfin-renas-medium](https://huggingface.co/rojanu/piper-ku-berfin-renas-medium) |
+| Voice | Engine | Quality | Licence | Weights |
+|---|---|---|---|---|
+| berfin-renas | Piper | medium | [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [rojanu/piper-ku-berfin-renas-medium](https://huggingface.co/rojanu/piper-ku-berfin-renas-medium) |
+
+The berfin-renas voice is trained on recordings provided by
+[Zarok TV](https://zarok.tv) in partnership with Zirek.
 
 ## Roadmap
 

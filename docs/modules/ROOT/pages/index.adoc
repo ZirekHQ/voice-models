@@ -8,15 +8,18 @@ Model weights live on Hugging Face and audio lives outside git; see xref:model-h
 
 == Current models
 
-[cols="1,1,1,2"]
+[cols="1,1,1,1,2"]
 |===
-|Voice |Engine |Quality |Weights
+|Voice |Engine |Quality |Licence |Weights
 
 |berfin-renas
 |Piper
 |medium
+|https://creativecommons.org/licenses/by-nc/4.0/[CC BY-NC 4.0]
 |https://huggingface.co/rojanu/piper-ku-berfin-renas-medium[rojanu/piper-ku-berfin-renas-medium]
 |===
+
+The berfin-renas voice is trained on recordings provided by https://zarok.tv[Zarok TV] in partnership with Zirek.
 
 == Roadmap
 
