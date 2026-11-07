@@ -1,0 +1,535 @@
+kmr_12410	Ev bîst roj in li kampa Qûştepeyê pirsgirêka avê heye.
+kmr_12411	Ev deh sal in Xweşnavo ji welêt derketiye.
+kmr_12412	Evîn; noqbûna li deryayê, hezkirin; avjeniya tê de.
+kmr_12413	Ew li Brukselê derbarê şerê li Ukrayna de dicivin.
+kmr_12414	Ewropa, vîzeyê li ser Qeter û Kuweytê radike.
+kmr_12415	Ez dizanim ku Şervan hevalê te ye.
+kmr_12416	Ez piştgiriya şandina pênaxwazan ji bo Ruandayê dikim.
+kmr_12417	Ezhel di weşana zindî de kilameke kurdî got.
+kmr_12418	Fazil Say li Dêrsimê konser da, stranên Zazakî jî hatin gotin.
+kmr_12419	Felzekeyên çardeh parlamenteran pêşkêşî Parlamentoya Tirkiyeyê hate kirin.
+kmr_12420	Ferhat Tunç rakirin nexweşxaneyê.
+kmr_12421	Fermandarê Hêza Parastina Êzîdxanê Heyder Şeşo dibêje, Me hêzên xwe vekişandin.
+kmr_12422	Firingiyên Amedê hinardeyî Amerîka, Kanada û welatên Ewropayê dibin.
+kmr_12423	Firokeyên Tirkiyeyê sînorê Akreyê û Amêdiyê bombebaran kirin.
+kmr_12424	Foruma Davosê careke din hat paşxistin.
+kmr_12425	Frank Walter Steinmeier dubare wek Serokê Almanyayê hat hilbijartin.
+kmr_12426	Fîdan û Memlûk şert û mercên xwe gotûbêj kirin.
+kmr_12427	Fîlma Silav Pêşmerge di Youtubeê de hate parvekirin.
+kmr_12428	Gamêşên Besrayê dimeşin zozanan.
+kmr_12429	Geştyarên Suryanî ji xeribiyê berê xwe didin Midyadê.
+kmr_12430	Geştên esmanî yên navbera Tehran û Wanê dawiya vê mehê dest pê dikin.
+kmr_12431	Girtina deriyê Pêşabûrê rê ji bo qaçaxçiyan xweş kir.
+kmr_12432	Girtiya heştê salî Makbule Ozer rakirin nexweşxaneyê.
+kmr_12433	Girên keskesor ên li bajarê Îdirê bala geştiyaran dikişînin.
+kmr_12434	Giştîkirin, xwegihandina teorî û zagonan e.
+kmr_12435	Gola Reş a li navçeya Pulura Dêrsimê li benda geştyaran e.
+kmr_12436	Gora hunermend Tehsîn Taha li Amêdiyê.
+kmr_12437	Got, Tobe heram be!
+kmr_12438	Gotinên zarokê deh salî yên derbarê Kilicdaroglu de rastî nerazîbûnan hat.
+kmr_12439	Grûpên Kupa Cîhanî ya li Qeterê ev in.
+kmr_12440	Grûpên çekdar sê welatî li Cindirêsê girtin.
+kmr_12441	Gumbetên Goristana Kifrî di bin xetereya hilweşînê de ne.
+kmr_12442	Gund û deştên navçeya Qisleyê ya Dêrsimê bi rengê biharê xemilîn.
+kmr_12443	Gundê Rûwar li Hewraman a Rojhilatê Kurdistanê ji ber bê aviyê dinalîne.
+kmr_12444	Heger nexwşiyeke sivik be, piştî lênêrînê em diçin malê.
+kmr_12445	Hejmara qurbaniyên belema Tertûsê gehişte nod û çar kesan.
+kmr_12446	Hejmarek ji leşkerên Rûsyayê li Xersonê xwe radestî artêşa Ukryanayê dikin.
+kmr_12447	Hejmarek koçberên Nîjeryayê ji Lîbyayê vedigerin welatê xwe.
+kmr_12448	Hemû kesên nevrotîk an Oîdîpûs in an jî Hamlet in.
+kmr_12449	Her kes ji Zeûsî hatiye, çi biyanî, çi xêzan.
+kmr_12450	Her utopya, senaryoya bihuştekê an jî dojehekê ye.
+kmr_12451	Herî zêde bilêtên fîlma nû ya Brad Pitt hatine firotin.
+kmr_12452	Hestî ji du şaneyên sereke pêk te, şaneya hestiyê pitew û şaneya hestiyê îsfencî.
+kmr_12453	Hevalên wî ji ku ne? "Kolombiya.".
+kmr_12454	Hevdîtinên Fînlanda, Swêd û Tirkiyeyê sibê berdewam dikin.
+kmr_12455	Hevseroka Partiya Demokratîk a Gelan Pervin Buldan bi Coronayê ket.
+kmr_12456	Hevserokê Berê yê Şaredariya Kopê ya Partiya Demokratîk a Gelanê hat azadkirin.
+kmr_12457	Hevserokê Giştî yê Partiya Demokratîk a Gelan Mîthat Sancar li ser rojevê axivî.
+kmr_12458	Hevserokê Giştî yê Pena Kurd, Hejmara zarokên kurdîaxiv roj bi roj zêdetir dibe.
+kmr_12459	Hevserokên Partiya Demokratîk a Gelan serdana Partiya Seadetê kirin.
+kmr_12460	Hezar û neh sed kes ji gundê gundê Tepkê yê Dêrikê koçber bûne.
+kmr_12461	Hikûmeta Sûriyê deriyê Tebqayê girt.
+kmr_12462	Hrant Dînk di panzdehemîn salvegera kuştina xwe de hat bîranîn.
+kmr_12463	Hulusî Akar derbarê pêşhatên dawî yên li Tirkiyeyê û navçeyê de axivî.
+kmr_12464	Hunermend Mehmet Akbaş dê li Filarmoniya Kolnerê konserekê bide.
+kmr_12465	Hunermend Welîd Doskî strana Rewandûzê dibêje.
+kmr_12466	Hunermend Şeyda, klîba xwe ya herî nû belav kir.
+kmr_12467	Hunermendek li serê Çiyayê Cîloyê bi cilûbergên netewî stranên kevnar dibêje.
+kmr_12468	Hunermendê Koma Gulên Xerzan hat destserkirin.
+kmr_12469	Hunermendê ji Qamişloyê Xêmo, klîba Bijî Kurdistan belav kir.
+kmr_12470	Hêzên Ewlekariya Hundirîn derberî êrişa li Qamişloyê de daxuyanî da.
+kmr_12471	Hêzên Parastina Gel canjidestdana du fermandarên xwe ragihand.
+kmr_12472	Hêzên Parastina Gelê nasnameya endamekî Fermandariya Botanê ragihand.
+kmr_12473	Hêzên Pasevanên Sînor hevdeh xalên serbazî li Berwariyê danîne.
+kmr_12474	Hêzên Supaya Pasdaran ji gundekî Rojhilatê Kurdistanê dernakevin.
+kmr_12475	Hêzên Sûriya Demokratîk di operasyona kuştina Xelîfeyê daişê de alîkar bû.
+kmr_12476	Hêzên Sûriya Demokratîk li Dêre Zorê du çekdarên Daişê kuştin.
+kmr_12477	Hêzên Tirkiyeyê derdora Êyn Îsayê topbaran kirin.
+kmr_12478	Hêzên Tirkiyeyê gundê Aqîbê yê Efrînê topbaran kirin, du zarok birîndar bûn.
+kmr_12479	Hêzên Îranê hunermendê Kurd Ezîz Weysî desteser kirin.
+kmr_12480	Hûn, min bi bêoliyê tawanbar dikin lê qey cehalet ne gunehekî mezintir e?
+kmr_12481	Hûrgiliyên hevdîtina Hakan Fidan û Elî Memlûk hatin eşkerekirin.
+kmr_12482	Iraq dibêje; Kompanyayên bi Herêma Kurdistanê re kar bikin dê bikevin lîsteya reş.
+kmr_12483	Japonyayê çar milyon Euro alîkarî da Bakurê Rojhilatê Sûriyê.
+kmr_12484	Ji Gola Zirêbar a Merîwanê dîmenên bedew.
+kmr_12485	Ji Marîupolê veguhestina sivîlan berdewam e.
+kmr_12486	Ji ber girtina deriyê Pêşabûr gelek welatî asê man.
+kmr_12487	Ji ber topbarana Tirkiyeyê bi sedan welatiyên Zirganê koçber bûn.
+kmr_12488	Ji bo Cîgira Mazlûm Ebdî peyama sersaxiyê hat belavkirin.
+kmr_12489	Ji bo analîza me destpêka herî bingehîn hevkêşeyên Maxwell e.
+kmr_12490	Ji bo seqamgiriyê em berdewam dibin li ser piştgiriya Pêşmerge.
+kmr_12491	Ji destpêka aloziya Sûriyeyê ve duwazdeh hezar koçberên Sûrî derbasî Qibrisê bûne.
+kmr_12492	Ji kamereya Rûdawê serdana Biden a li Polandê.
+kmr_12493	Ji kerema xwe guhertoya herî dawî ya WhatsApp Messengerê daxîne.
+kmr_12494	Ji xwe re kitêbxaneyek ava kiriye.
+kmr_12495	Jineke Alman a Daişî hat cezakirin.
+kmr_12496	Kamaran Palanî li panela Meriyê, Civakê hêj bi cidî ji metirsiyên derve fêm nekiriye.
+kmr_12497	Kar li ser aramkirina derûna zarokên Xezeyê tê kirin.
+kmr_12498	Kargehek li navçeya Silopiyê berhemên xwe hinardeyî çar welatên Ewropayê dike.
+kmr_12499	Karkerê Kurd ê ku li Sakaryayê rastî êrişa nijadperstiyê hatibû ji Rûdawê re axivî.
+kmr_12500	Karsazê Kurd Hamdî Ulukaya kete nav koma Netewên Yekbûyî.
+kmr_12501	Karvedanên li ser xwekuştina Enes Kara berdewam in.
+kmr_12502	Karîna tinazpêkirina desthilatdariyê, pêngava yekemîn a rizgariyê ye.
+kmr_12503	Kela bi heybet a Şêrwanê li devera Germiyan.
+kmr_12504	Kengî kalek dimire kitêbxaneyek pê re dişewite.
+kmr_12505	Kesî jî nepirsî, yaw çawa tiştekî hişk difûre û dibe dûkêl.
+kmr_12506	Komxebata Tifaqa Kurdistanî li ser topbarana Zaxoyê daxuyaniyek da.
+kmr_12507	Komîteya Wezîran a Konseya Ewropayê ji Tirkiyeyê daxwaza berdana Demirtaş kir.
+kmr_12508	Konsera Îlkay Akkaya bi hinceta Partiya Karkerên Kurdistanê hat qedexekirin.
+kmr_12509	Konsola te ya li ser Ebayê hîn jî li ber firotinê ye?
+kmr_12510	Kovara Popkurdê hejmara xwe ya dehan derxist.
+kmr_12511	Koçberên Xwêranê li nav mizgeftan bicih bûne.
+kmr_12512	Koşka Ishak Paşa di Cejna Remezanê de bû navenda geştyariyê.
+kmr_12513	Krîstiyanên Midyadê piştî dehan salan vedigerin warê xwe.
+kmr_12514	Ku mijar dibe çavbirçîtî di navbera gundî û esilzadeyan de ferq namîne.
+kmr_12515	Kujerê du mamosteyên zanîngeha Selahedînê hat desteserkirin û wêneyê kujer hat belavkirin.
+kmr_12516	Kujerê du mamosteyên zanîngeha Selahedînê hat desteserkirin.
+kmr_12517	Kurdekî ji Rojavayê Kurdistanê li Awisturyayê Kurdan fêrî ajotinê dike.
+kmr_12518	Kurdên Feylî rû bi rûyî jenosîdeke mezin bûn.
+kmr_12519	Kêfxweşiya meşa li ser Gola Xwêyî.
+kmr_12520	Kêmbûna avê rewşa koçerên Mexribê xerab kiriye.
+kmr_12521	Letîf Reşîd erkê avakirina hikûmetê da Mihemed Şiya Sûdanî.
+kmr_12522	Leşkerekî Tirkiyeyê li Zapê hat kuştin û du leşker jî birîndar in.
+kmr_12523	Leşkerekî Tirkiyê li navçeya Rûbarûk a Colemêrgê mir.
+kmr_12524	Li Agiriya Bakurê Kurdistanê keçên pêncik dest bi dibistanê kirin.
+kmr_12525	Li Amedê, kovareke bi navê "Govend" derdiket.
+kmr_12526	Li Artvînê lat bi ser barhilgiran de ketin yek mirî, du jî birîndar.
+kmr_12527	Li Aydinê bîst û çar koçber hatin girtin.
+kmr_12528	Li Babilê şer duwazdeh jê zarok hejdeh kes hatin kuştin.
+kmr_12529	Li Bangladeşê keştiya diçû perestgehê binav bû.
+kmr_12530	Li Bexdayê, alîgirên Muqteda Sedr ketin avahiya Parlamentoya Iraqê ya li Herêma Kesk.
+kmr_12531	Li Bismilê agirê Newrozê bi pereşoke mezin hat pêxistin.
+kmr_12532	Li Calaisa Fransayê, xwepêşandan dijî tundkirina siyaseta koçberiyê hat kirin.
+kmr_12533	Li Cerablûsê jineke Kurd hate revandin û çarenivîsa wê nediyar e.
+kmr_12534	Li Cezayîrê şeş koçber di Deryaya Spî de xeniqîn.
+kmr_12535	Li Cindirêsa Efrînê çekdarên ser bi Tirkiyeyê ve kalemêrekî Kurd îşkence kirin.
+kmr_12536	Li Cizîr a Rojavayê Kurdistanê bîst û çar kesên din bi Koronayê ketin.
+kmr_12537	Li Cizîrê wênesazekî Kurd dîwarên bajêr bi wêneyên dîrokî dixemilîne.
+kmr_12538	Li Dêre Zorê rê li ber gera serbazî ya hêzên Amerîkî hat girtin.
+kmr_12539	Li Dêrsim û sê navçeyên wê perwerde tê rawestandin.
+kmr_12540	Li Dêrsimê komkujiyên Helebce, Gazî û Beyazidê hatin şermezarkirin.
+kmr_12541	Li Dêrsimê malbata Bozkurt bi zorê ji malê hatin derxistin.
+kmr_12542	Li Dêrsimê pêşangeha Rojên Pirtûkan a Mûnzûrê dest pê kir.
+kmr_12543	Li Dêrsîmê çalakî ji bo dema heft rojan tên sînordarkirin.
+kmr_12544	Li Edenê bi hinceta Partiya Karkerên Kurdistanê deh kes hatin desteserkirin.
+kmr_12545	Li Efrînê Fermandarekî grûpa Zinkî dest danî ser zeviya welatiyekî Kurd.
+kmr_12546	Li Efrînê fermandarekî Cebhe El Şamiyê hat kuştin.
+kmr_12547	Li Enqereya paytexta Tirkiyeyê xwepêşandan li dijî hevzayendiyê pêk hat.
+kmr_12548	Li Erxeniya Amedê zarokekî heft salî ket nav çem û xeniqî.
+kmr_12549	Li Erzînganê bûyera trafîkê, kesek mir û çar kes jî birîndar bûn.
+kmr_12550	Li Ezazê endamekî grûpên çekdar destdirêjî li keçeke deh salî kir.
+kmr_12551	Li Geverê pêşbirka beyzbola Kurdî li Holanê birêve çû.
+kmr_12552	Li Girtîgeha Qubînê mirina gumanbar.
+kmr_12553	Li Gola Masiyan a li ser sînorê Agirî û Îdirê dema rojavabûnê.
+kmr_12554	Li Hemayê di teqîna du mînan de çar kesan canê xwe ji dest dan.
+kmr_12555	Li Hesekê maqûlekî eşîra Şemer hat revandin.
+kmr_12556	Li Hewremanê di navbera sînorê Başûr û Rojhilatê Kurdistanê de tenê cokek heye.
+kmr_12557	Li Hezexê ji ber teqînekê du bira birîndar bûn.
+kmr_12558	Li Holandayê penaberekî Kurd xeniqî.
+kmr_12559	Li Iraqê Şîe û li Kurdistanê partiyên siyasî di rewşeke xetimî de ne.
+kmr_12560	Li Izmîrê polîsan bi ser çendîn malan de girtin.
+kmr_12561	Li Kampa Domîzê pêşangeha derfetên kar hate vekirin.
+kmr_12562	Li Kerkûkê çar endamên lîsteya Birayetî hatin darizandin.
+kmr_12563	Li Kilîsê şeş koçberên Sûrî hatin destserkirin.
+kmr_12564	Li Kirmaşanê hêzên Îranê mamoste û çalakvanê Kurd Ferhad Mîrzayî desteser kirin.
+kmr_12565	Li Kolombiyayê sê sed hezar hezar kesan ji ber şerê rêxistinan koç kirin.
+kmr_12566	Li Konyaym du rojnamevan bûn armanca êrişa nijadperestan.
+kmr_12567	Li Lîbyayê hilbijartin hat paşxistin.
+kmr_12568	Li Macaristanê di bûyereke trafîkê de heft koçberan canê xwe ji dest dan.
+kmr_12569	Li Marsê deng ji cihanê hêdîtir e.
+kmr_12570	Li Meksîkoyê qeza pêncî û çar mirî, sed û pênc birîndar.
+kmr_12571	Li Meletiyê êrişî Partiya Devayê hat kirin.
+kmr_12572	Li Meletî û Rihayê bûyerên trafîkê çêbûn.
+kmr_12573	Li Menbicê serkirdeyekî Daişê hat desteserkirin.
+kmr_12574	Li Muglayê sed koçber hatin desteserkirin.
+kmr_12575	Li Mêrdînê endamên Weqfa Furqanê hatin desteserkirin.
+kmr_12576	Li Necefê rewşa siyasî ya Iraqê hat gotûbêjkirin.
+kmr_12577	Li Osmaniyeyê bi hinceta endamtiya Yekîneyên Parastina Gel pênc Efrînî hatin girtin.
+kmr_12578	Li Reqayê xwedîkirina zarokên bêkes.
+kmr_12579	Li Rewandizê otomobîleke darîn bala xelkê kişande ser xwe.
+kmr_12580	Li Rûsyayê Qedexekirina torên civakî rûsan pir aciz kiriye.
+kmr_12581	Li Sakaryayê êrişî karkerekî Kurd hat kirin.
+kmr_12582	Li Seroka Yekîtiya Pizîşkan lêpirsîna çekên kîmyewî hat destpêkirin.
+kmr_12583	Li Silêmaniyê êrişa bombeyî li dijî berpirsekî Eniya Tirkmenî hat kirin.
+kmr_12584	Li Sirûcê daxwaza hilbijartina dersa zimanê kurdî zêde bûye.
+kmr_12585	Li Sirûcê qeza çê bû du mirî, pênc birîndar hene.
+kmr_12586	Li Stenbolê ji ber doza Geziyê pêncî kes hatin desteserkirin.
+kmr_12587	Li Sudanê krîza siyasî; Hemdok dest ji pêkanîna hikûmetê berda.
+kmr_12588	Li Swîsreyê êdî ew ê agahiyên fermî bi kurdî jî bên dayîn.
+kmr_12589	Li Sêwasa Bakurê Kurdistanê gelek curên govendê hene.
+kmr_12590	Li Sêwasê rêya du sed û çardeh gundan hat girtin.
+kmr_12591	Li Sêwazê trafo teqiya Karkerek mir û sê jî birîndar bûn.
+kmr_12592	Li Sêwregê bûyera trafîkê, şeş birîndar hene.
+kmr_12593	Li Tebqayê hezar ciwan tevlî Hêzên Sûriya Demokratîk bûn.
+kmr_12594	Li Tirkiyeye û Bakurê Kurdistanê heft sed tax ji bo biyaniyan hatin qedexekirin.
+kmr_12595	Li Tirkiyeyê boykotkirina Zincire Marketên Mîgrosê.
+kmr_12596	Li Trabzonê pênc avahiyên din di nav ax û avê de man.
+kmr_12597	Li Urmiyê heft welatiyên Kurd bi tometa endamtiya Partiya Karkerên Kurdistanê hatin dadgehkirin.
+kmr_12598	Li Urmiyê kesekî bi brûskê canê xwe ji dest.
+kmr_12599	Li Wan, Colemêrg, Bedlîs, Mûş û Sêwazê rêya nod û heft gundan hat girtin.
+kmr_12600	Li Wanê di operasyona Proseya Çareseriyê de neh kes hatin girtin.
+kmr_12601	Li Wanê qedexeya çalakiyan heta bîst û nehê Nîsanê hat dirêjkirin.
+kmr_12602	Li Wanê sempozyûma Feqiyê Teyran dest pê kir.
+kmr_12603	Li Wanê sih koçberên Efxanistanî hatin desteserkirin.
+kmr_12604	Li Xarpêtê rêyeke du hezar salî ya serdema Romayê hat dîtin.
+kmr_12605	Li Xelîfanê bi dronê êrişî grûpeke gerîlayên Partiya Karkerên Kurdistanê kirin.
+kmr_12606	Li Xwêranê di navbera şervan û Daişiyan de şer derket.
+kmr_12607	Li Zanîngeha Munzurê ya Dêrsimê mizgefteke nû hat vekirin.
+kmr_12608	Li Zaxo agir bi kampeke penaberan ket, konek bi temamî şewitî.
+kmr_12609	Li Zumarê dengê teqînê ji baregeha Heşda Şebiyê hat.
+kmr_12610	Li bajarê Serê Kaniyê yê Rojava çekdarekî grûpa Hemze hat kuştin.
+kmr_12611	Li bircên Ameda Bakurê Kurdistanê çirayeke hezar û pênc sed salî hat dîtin.
+kmr_12612	Li dijî Komeleya Şopandina Koçê operasyon pêk hat.
+kmr_12613	Li esmanê Tartûsê dengê teqînan tê.
+kmr_12614	Li eyaleta Kentucky a Amerîkayê bahoz rabû.
+kmr_12615	Li gel Sîma Abxizir Demjimêr pênc di weşanê de ye.
+kmr_12616	Li nav Kampa Waşûkaniyê teqîn çêbû kuştî û birîndar hene.
+kmr_12617	Li nav kampa Waşûkanî ya li Hesekê teqîn çêbû.
+kmr_12618	Li navçeya Pilemûriyê ya Dêrsimê hirçek li gel sê ferxikên xwe hatin dîtin.
+kmr_12619	Li navçeya Pulur a Dêrsimê.
+kmr_12620	Li navçeya Tûxa Bedlîsê, rêwîtiya pezan, dîmenên fîlman derdixin.
+kmr_12621	Li nêzî Birca Galatayê ya Stenbolê welatiyekî xwe şewitand.
+kmr_12622	Li peravên Miamiyê helîkopterek ket xwarê.
+kmr_12623	Li ser egera lihevkirina Enqere û Şamê nêrîna welatiyên Tirkiyê û penaberên Sûrî.
+kmr_12624	Li ser eşîra Hevêrkan û axayê wê dokumenterek hat amadekirin.
+kmr_12625	Li sînorê parêzgeha Edirneyê nozdeh koçberan canê xwe ji dest dane.
+kmr_12626	Li Çanakkaleyê pêncî û yek koçber hatin girtin.
+kmr_12627	Li Çewlîgê dema minîbûsek derbas dibû aşût çê bû.
+kmr_12628	Li Çomanê du bira bi teqîna mînê birîndar bûn.
+kmr_12629	Li Şedadê binkeya serbazî ya Amerîkayê mûşekbaran kirin.
+kmr_12630	Li Şehbayê zaroka di topbarana Tirkiyeyê de birîndar bû jiyana xwe ji dest da.
+kmr_12631	Li Şemzînanê çend projeyên geştyariyê têne bicîkirin.
+kmr_12632	Li Şirnex û Sêrtê operasyoneka nû ya leşkerî hat destpêkirin.
+kmr_12633	Li Şirnexê cara yekemîn e turnûwaya bîlardoyê tê lidarxistin.
+kmr_12634	Li Şêladizê ji ber operasyona Tirkiyeyê gundî ji dahata giyayên biharê bêpar man.
+kmr_12635	Lê di felsefeya koçeran de pragmatizm zêdetir ji bo keriyê pêz derdikeve pêş.
+kmr_12636	Lêkolîn li ser çawayiya binaxkirina bermayên radyoaktîv tê kirin.
+kmr_12637	Lûtkeya sê alî ya Reîsî, Putin û Erdogan hat lidarxistin.
+kmr_12638	Mafê Canan Kaftancioglu yê endambûna partiyên siyasî hat hilweşandin.
+kmr_12639	Malbata Gulistan Dokuyê li gel Kilicdaroglu hevdîtin kir.
+kmr_12640	Malbateke Kurd ji Hesekê dibêje ku Tevgera Ciwanên Şoreşer kurê wan birine.
+kmr_12641	Malbatên herî hejar li Wan, Mûş, Bedlîs û Colemêrgê ne.
+kmr_12642	Mamoste Alekan Nyland dibêje divê zarok bi zimanê dayîkê perwerdeyê bibînin.
+kmr_12643	Mamosteyên Kurd li parêzgeha Sineyê ya Rojhilatê Kurdistanê daxwaza berdana Şeiban Mihemedî kirin.
+kmr_12644	Mamosteyên we ji ku derê bûn? "Fînlandiya.".
+kmr_12645	Mamosteyên we ji ku derê bûn? "Nîjerya.".
+kmr_12646	Manî Huseynî ji Qamişloyê ye û parlementerê Norwêcê ye.
+kmr_12647	Masî ji dolfînê biçûktir e.
+kmr_12648	Medyaya Swedê; Îranê geştyarekî Swêdî desteser kiriye.
+kmr_12649	Medyaya Sûriyeyê, Israîlê bi mûşekan êrişî bajarokekî Tertûsê kiriye.
+kmr_12650	Mehmet Emin Kardaş dîsa wekî serokê Partiya Demokrat a Kurdistanê li Tirkiyeyê hat hilbijartin.
+kmr_12651	Mem Arart ji bo dersa kurdî piştgirî, zarokên xwe fêrî kurdî bikin.
+kmr_12652	Merasîma dest bi karkirina Makron birêve diçe.
+kmr_12653	Mesrûr Barzanî û Plasschaert pirsgirêkên Hewlêr û Bexdayê gotûbêj kirin.
+kmr_12654	Mesûd Barzanî beşdarî merasîma vekirina Baregeha Kenîseya Aşûriyan a li Hewlêrê bû.
+kmr_12655	Metirsiya jinavçûna Semenderên Kurdistanê.
+kmr_12656	Min di kovara "Time"ê de gotarek xwend.
+kmr_12657	Min ti pereyek ji Qenddîlê wernegirtiye.
+kmr_12658	Min, we hefteya borî di konferansa xwezayê ya bajarê Cizîrê de dîtin.
+kmr_12659	Misir û Urdinê bombebaranên duh ên Îranê şermezar kirin.
+kmr_12660	Mistefa Hicrî bang li xelkê Rojhilatê Kurdistanê kir.
+kmr_12661	Modelîst û stranbêjê Îtalyayî serdana Hewlêrê kiriye.
+kmr_12662	Muzîkjena Îranî Esel Melekzade; gelekî ji çand û muzîka Kurdan hez dikim.
+kmr_12663	Muzîkjenên Efxanistanê ji neçarî dest ji karê xwe berdidin.
+kmr_12664	Mêşvanên Bakurê Kurdisanê ji buhayê hingiv ne razî ne.
+kmr_12665	Mîrê Qeterê El Sanî ji bo vejandina rêkeftina etomî li Tehranê ye.
+kmr_12666	Mûsa Anter li cihê hate kuştin hat bibîranîn.
+kmr_12667	Nadîn Maenza dibêje; tawanên şer ên Tirkiyeyê tên paşguhkirin.
+kmr_12668	Nameya berpirsê Redbullê ya li ser Colemêrgê bû sedema krîzê.
+kmr_12669	Nameyekê rengê doza Tahir Elçî guhert.
+kmr_12670	Navenda Lêkolînên Civakî ya Yoneylemê encamên rapirsiya xwe eşkere kir.
+kmr_12671	Navenda Rîskê ya Yekîtiya Bankayên Tirkiyeyê derbarê deynên krediyan raporek belav kir.
+kmr_12672	Navendek pêşwazîkirina koçberan li Polandê.
+kmr_12673	Navê Mezanî ji latînî medianus hatiye.
+kmr_12674	Navê min Dilşad e.
+kmr_12675	Navê min Mercan e.
+kmr_12676	Nebûna çapxaneyekê rewşa xwendekaran dijwartir dike.
+kmr_12677	Ned Price li ser operasyona Rojava bang li Tirkiyeyê kir.
+kmr_12678	Nerazîbûna li hemberî Atvyê û rêzefîlma wê zêde dibin.
+kmr_12679	Netewên Yekbûyî Îran ji Hûsiyan re çekan dişîne.
+kmr_12680	Niha li ser Platforma Universal a Windowsê berdest e.
+kmr_12681	Nivîskara Kurd Rojbîn Perişan piştî sih salan ji girtîgehê derket.
+kmr_12682	Niyeta baş a Xwedê bi afirandina Ademî ji holê rabû.
+kmr_12683	Nêrînên Bexdayiyan li ser hikûmeta Mihemed Şiya Sûdanî.
+kmr_12684	Nêçîrvan Barzanî beşdarî Konferansa Asayîşê ya li Munichê dibe.
+kmr_12685	Nêçîrvan Barzanî daxwaz kir Encûmena Ewlekariyê roleke zêdetir bide.
+kmr_12686	Nêçîrvan Barzanî li gel rayedarên Tevgera Goranê civiya.
+kmr_12687	Nêçîrvan Barzanî pêşwazî li peyama Muqteda Sedr kir.
+kmr_12688	Nêçîrvan Barzanî û Claudia Roth civiyan.
+kmr_12689	Nêçîrvan Barzanî şehîdên yekê Sibatê bi bîr anîn.
+kmr_12690	Nîveya yekem a lîstika Afyonspor û Amedsporê bi encama wekheviyê bidawî bû.
+kmr_12691	Nîvzanîn, ji nezanînê xeternaktir e.
+kmr_12692	Papa Francis ji bo Iraqê banga diyalogê kir.
+kmr_12693	Parlamentera berê ya Partiya Demokratîk a Gelan Aysel Tugluk hat azadkirin.
+kmr_12694	Partiya Azadiya Kurdistanê ji malbata Elî Qazî re sersaxî xwestin.
+kmr_12695	Partiya Demokratîk a Gelan; Helebce birîna gelê me ye.
+kmr_12696	Partiya Gel a Komarî derbarê Yasaya Sansurê de serî li Dageha Destûrê da.
+kmr_12697	Partiya Sosyalîst a Kurdistanê û Tevgerê êrişa li ser Hewlerê şermezar kirin.
+kmr_12698	Parêzer Kutevî behsa gulebaranê kir; Li Elbakê çi bû?
+kmr_12699	Parêzerekî bi hinceta ku heqaret li Yilmaz Guney kiriye doz li Umit Ozdag vekir.
+kmr_12700	Penaberekî Sûrî di girtina êrişkarê New Yorkê de bûye alîkar.
+kmr_12701	Pencemor li gel nivîskar û lêkoliner Konê Reş.
+kmr_12702	Pervîn Çakar li Keleha Hewlêrê dibêje.
+kmr_12703	Piraniya Brîtaniyan ji hilbijartina Liz Truss wekî serokwezîr bêhêvî ne.
+kmr_12704	Pirteqal, lîmon, grîfon û hwd. mêweyên dibistanê ne.
+kmr_12705	Pismamên te ji ku ne? " Paraguay.".
+kmr_12706	Piştî du salan hêj berpirsyarên teqîna Beyrudê nehatine cezakirin.
+kmr_12707	Piştî sed salan li Dêra Mor Efrem a Mêrdîn ayîn hat kirin.
+kmr_12708	Piştî teza xwe nivîsand, li ser WhatsAppê jî dinivîsî.
+kmr_12709	Polîsê ku li Şirnexê bi qestî li parêzer Serkan Karakaş xist, hat girtin.
+kmr_12710	Projebiryarên Rûsya, Îrlanda û Norwêcê yên li ser Sûriyeyê hatin vetokirin.
+kmr_12711	Putin destpêkirina operasyona leşkerî li Donbasê ragihand.
+kmr_12712	Putin û Erdogan dê li Astanayê bicivin.
+kmr_12713	Pêşketina zanistî li Misrê dihat xuyakirin.
+kmr_12714	Pêşmerge rê neda artêşa Iraqê derbasî qada gaza Xor Morê bibe.
+kmr_12715	Pêşniyara Kordînatorê HezKurdê ji bo Kurdî: Zimanê xwecihî.
+kmr_12716	Pîrika te ji ku bû? "Îzlenda.".
+kmr_12717	Qada gazê ya Çemçemalê dîsa rastî êrişeke bi mûşekan hat.
+kmr_12718	Qeymeqamê ku li Amedê bû sedema mirina zarokekî li Çorumê hat tayinkirin.
+kmr_12719	Qonaxa dilfikarî û bendewariyê ji aliyê Yasîn Teha ve hatiye nivîsandin.
+kmr_12720	Rewşan Çelîkerê klîbeke nû belav kir.
+kmr_12721	Rewşan Çelîkerê strana Gulê xweş distirê.
+kmr_12722	Roja nehşemê ew ê were.
+kmr_12723	Rola mûşeka Javelin di şerê Ukrayna û Rûsyayê de.
+kmr_12724	Romanên Harry Potter bi bîst û heşt zimanan hatine weşandin.
+kmr_12725	Rubleyê Rûsî li hember Dolarê Amerîkî ji sedî sî bihayê xwe ji dest da.
+kmr_12726	Rêkeftina Swêd, Fînlanda û Tirkiyeyê cihê dilgiraniyê ye.
+kmr_12727	Rêveberiya Xweser li Reqayê rûbirûyê hişkesaliyê dibe.
+kmr_12728	Rêvebirina bajarokê Til Rifetê ket destê kurdan.
+kmr_12729	Rêxistina cîhanî ji ber Sorika Meymûnan rewşa awarte ya cîhanî ragihand.
+kmr_12730	Rêya Îdir û Qersê hat girtin.
+kmr_12731	Rûpela Rapor û Rapirsiyan encamên rapirsiyên sêzdeh kompaniyan belav kir.
+kmr_12732	Rûpela yekem, bi sernavê "Merhaba" dest pê dike.
+kmr_12733	Rûsyayê civîna Konseya Ewlekariyê ya li ser Ukraynayê weke provokasyon bi nav kir.
+kmr_12734	Rûsyayê li Efrîn û Ezazê êriş pêk anî; sed çekdar hatin kuştin.
+kmr_12735	Rûsyayê nêviyê herêma Donetskê kontrol kiriye.
+kmr_12736	Rûsyayê êrişên xwe li ser Xarkîvê zêde kirine.
+kmr_12737	Salih Muslim û Asya Ebdulah wekî hevserok hatin hilbijartin.
+kmr_12738	Samî Tan: Bi gilî û gazinan pirsgirêkên ziman çareser nabin.
+kmr_12739	Scholz û Macron ji Putîn agirbest xwestin.
+kmr_12740	Sed û deh sal in li Şama kevin kar dike.
+kmr_12741	Sed şehîdên Enfala Barzaniyan têne vegerandin.
+kmr_12742	Selçuk Mizrakli li jûra girtîgehê ya Selhadîn Demîrtaş bi cih bû.
+kmr_12743	Sepana Signalê pir kêrhatî ye.
+kmr_12744	Serena Williams dest ji tenîsê berdide.
+kmr_12745	Serkeftina gerdûnî ya çîna bindest ne utopya ye.
+kmr_12746	Serkirdeyên Sunî yên Iraqê bersiva bangewaziya Nêçîrvan Barzanî dan.
+kmr_12747	Serok Barzanî pêşwaziya Balyoza nû ya Amerîkayê li Iraqê kir.
+kmr_12748	Serok Barzanî sersaxî ji Rêveberê Giştî yê Rûdawê re xwest.
+kmr_12749	Serok Barzanî û Serokê Hur Davayê rewşa aliyên kurdî gotûbêj kirin.
+kmr_12750	Serok Mesûd Barzanî peyamek bi boneya hatina cejna Qiyamê belav kir.
+kmr_12751	Serok Nêçîrvan Barzanî li gel Wezîrê Derve yê Hîndistanê civiya.
+kmr_12752	Seroka Encûmena Nûneran a Amerîkayê gihîşt Taywanê û Çîn jî gefê dixwe.
+kmr_12753	Serokkomarê nû yê Iraqê Ebduletîf Reşîd yekemîn peyama xwe bi rêya Rûdawê belav kir.
+kmr_12754	Serokwezîrê Kanadayê Justin Trudeau dibêje, li welatê wî îslamofobî qet nayê qebûlkirin.
+kmr_12755	Serokê Herêma Kurdistanê Resûl Feqê, temenê xwe ji bo têkoşîna welatê xwe derbas kir.
+kmr_12756	Serokê Karûbarên Olî yê Tirkiyeyê serdana cemxaneya ku rastî êrişê hatibû, kir.
+kmr_12757	Serokê Parlamentoya Tirkiyeyê, derbarê Semra Guzelê de lêkolîn da destpêkirin.
+kmr_12758	Serokê Partiya Sosyalîstê ji bo Tirkiyeyê û Partiya Karkerên Kurdistanê peyam da.
+kmr_12759	Serokên Rusya, Tirkiye û Îranê derbarê Sûriyê dicivin.
+kmr_12760	Sibe xelatên Festîvala Fîlmên Kurdî ya Hamburgê tên pêşkêşkirin.
+kmr_12761	Siyasetmedarê Kurd li cihê Komkujiya Dugorê muzexaneyeke vekirî ava kir.
+kmr_12762	Soylu Demîrtaş hedef nîşan da, Demîrtaş yekser besivê dayê.
+kmr_12763	Sê roj in ava Nisêbînê hatiye qutkirin.
+kmr_12764	Sê talûkeyên mezin: aqilmendên bêhis, dilnermên bêbandor, bandordarên bêaqil.
+kmr_12765	Talebanî û Plasschaert rêveberî û reformên li Iraq û Herêma Kurdistanê nirxandin.
+kmr_12766	Temenê kurt û hêviyeke mezin: Komara Kurdistanê.
+kmr_12767	Termê ciwanekî Rojavayê Kurdistanê li daristaneke Bulgaristanê hat dîtin.
+kmr_12768	Termê ciwanekî kurd ê ji Qamişloyê li daristanên Bulgaristanê hat dîtin.
+kmr_12769	Tirkiye û Partiya Karkerên Kurdistanê bîlançoya şerê Zap û Avaşînê eşkere kirin.
+kmr_12770	Tirkiye û Urdunê ji bo vegerandina Sûriyan bi hev re dixebitin.
+kmr_12771	Tirkiyeyê cihek li bajarê Qamişloya Rojavayê Kurdistanê bombebaran kir.
+kmr_12772	Tirkiyeyê guh neda bombebarankirina Perexê.
+kmr_12773	Tirkiyeyê gundê Zor Mixarê li Kobaniyê topbaran kir.
+kmr_12774	Tirkiyeyê li Til Temirê xaleke Hêzên Sûriya Demokratîkê bombebaran kir.
+kmr_12775	Tirkiyeyê navenda gundê Hirûrê yê Amêdiyê topbaran kir.
+kmr_12776	Tirkiyeyê sê caran devera Nihêlê li Amêdiyê bombebaran kir.
+kmr_12777	Tirkiyeyê çiyayekî li Dêrelûkê bombebaran kir.
+kmr_12778	Tirkiyeyê êrişî Til Rifetê kir û li gorî agahiyên destpêkê kuştî û birîndar hene.
+kmr_12779	Têkçûyî, têkbiran teqlîd dikin.
+kmr_12780	Ukrayna li Zaporojiya xetên berevaniyê bihêz dike.
+kmr_12781	Velî Agbaba Berbijêrê me KemalKiliçdaroglu ye.
+kmr_12782	Vê şevê Xwedê Teala wiha dibêje:.
+kmr_12783	We bi girtina Fîncanci hemû cîhan ji nîqaşa çekên kîmyayî agahdar kir.
+kmr_12784	Welatiyê ji ber Ocalan rexne li Ozturk Yilmaz girtibûn hat desteserkirin.
+kmr_12785	Wergirên Xelata Nobel a Fîzîkê ya du hezar û bîst û duyan hatin eşkerekirin.
+kmr_12786	Wezareta Berevaniya Rûsyayê dibêje, artêşa wî welatî bajarê Kherson ê Ukrayanayê kontrol kiriye.
+kmr_12787	Wezareta Berevaniya Tirkiyeyê Hejmara kuştiyên êrişa li Birecikê bû du leşker.
+kmr_12788	Wezareta Pêşmerge li ser kurkirina simêlên Kurdekî ji aliyê Heşdî Şeibî ve daxuyanî da.
+kmr_12789	Wezîrê Berevaniyê yê Tirkiyeyê bi Coronayê ket.
+kmr_12790	Wezîrê Derve yê Ermenistanê serdana Tirkiyeyê dike.
+kmr_12791	Wezîrê Karûbarên Berevaniyê ya Brîtanyayê em ê berdewam bin di piştgiriya Pêşmergeyan de.
+kmr_12792	Wênegirê Rûdawê li Beyrûdê beşdarî pêşangeha wêneyan dibe.
+kmr_12793	Wêneyê agirpêketina li hotela HawlerPlazayê li bajarê Hewlêrê.
+kmr_12794	Xelatên heftê û pêncemîn ên Festîvala Fîlman a Cannesê hatin belavkirin.
+kmr_12795	Xelkê Luhanskê pereyên xwe ji bankayan derdixin.
+kmr_12796	Xemla Welêt li Rewandûzê ye.
+kmr_12797	Xemla Welêt li navçeya Westan a Wanê ye.
+kmr_12798	Xemla Welêt îro li Laleşê ye.
+kmr_12799	Xemla Welêt îro li Tetwan û Xîzanê digere.
+kmr_12800	Xerabmalî ye şerê birakujiyê.
+kmr_12801	Xizmên te ji ku ne? "Lîtvanya.".
+kmr_12802	Xizmên we ji ku derê ne? "Îrlenda".
+kmr_12803	Xweda van kesên dildar kêm neke înşellah.
+kmr_12804	Xwehên we ji ku bûn? "Skotî.".
+kmr_12805	Xwekêmdîtin, taybetmendiyeke din a bindestan e.
+kmr_12806	Xwendina romanên Mehmed Ûzûn bi zimanê kurdî, tevgereke dij-Kemalîst e.
+kmr_12807	Xwişkên we ji ku bûn? "Skotî.".
+kmr_12808	Xêro Ebas û Hejar Zehawî mêvanê Bultena Rojava ne.
+kmr_12809	Yekem cihê ku Bedîuzeman Seîdê kurdî lê hatiye veşartin.
+kmr_12810	Yekitiya Baroyên Tirkiyeyê ji Partiya Demokratîk a Gelan daxwaza piştevaniyê kir.
+kmr_12811	Yekîtiya Afrîkayê Ji ber şerê Ukrayna û Rûsyayê dê xela dest pê bike.
+kmr_12812	Yekîtiya Bankeyan Li Tirkiyeyê sih û şeş milyon kes deyndar in.
+kmr_12813	Yekîtiya Ewropayê derbarê canjidestdana keça Kurd Jîna Emînî daxuyanî da.
+kmr_12814	Yê nizane, cahil e; yê dizane û bêdeng dimîne jî bêexlaq e.
+kmr_12815	Zarokekî ji Almanyayê hatî li Laleşê tê morkirin û dibe Êzidî.
+kmr_12816	Zelenesky daxwaza rawestandina êrişa li ser Kîevê dike.
+kmr_12817	Zelensky ji komedyeniyê ber bi Qehremanê Şer.
+kmr_12818	Zelensky, me zêdeyî sed kesan ji Azovstal a Mariupolê veguhestine.
+kmr_12819	Zimanê Qedrîcan jî, zimanekî xwerû û gelêrî ye.
+kmr_12820	Zêdetirî sed û pêncî Kurdên Êzidî li Yunanistanê asê mane.
+kmr_12821	Çalakiya Çavdêriya Esmanî ya Zerzevanê dest pê kir.
+kmr_12822	Çavuşoglu Olîgarkên Rûsî dikarin li Tirkiyeyê kar bikin.
+kmr_12823	Çekdarên Feyleq El Şam bûn sedema mirina welatiyekî Efrînê.
+kmr_12824	Çekdarên ser bi Tirkiyeyê ve li Şerayê ya Efrînê darzeytûn birîn.
+kmr_12825	Çend dîmen ji hevdehemîn Yariya Hêştiran li Kuweytê.
+kmr_12826	Çend wêneyên berêvara bajarokê Biyareya Hewramanê.
+kmr_12827	Çima heta niha ferhengeke yekzimanî ji bo Kurdî nîne?
+kmr_12828	Çima kes ji te bawer nake Evdirehman?
+kmr_12829	Çiya Şenses li mala xwe ya li Stenbolê hatibû desteserkirin.
+kmr_12830	Çiyayên Alpî ji deştên Ewropayê re ava vexwarinê peyda dikin.
+kmr_12831	Çîroka Kurdên Xelxalê; ev pênc sed sal in li ser Kurdbûna xwe rijd in.
+kmr_12832	Çûna kolberan ber bi Paweyê ve hat qedexekirin.
+kmr_12833	Êrişkarê avahiya Partiya Demokratîk a Gelan a Bahçelievlerê hat berdan.
+kmr_12834	Îkram Oxuz dibêje; dîroka rast, dîroka ku hîn nebûye çîrok e.
+kmr_12835	Îmzeyên ji bo Aysel Tuglukê hatine komkirin ji Wezareta Dadê re tên şandin.
+kmr_12836	Îran pêşniyarara derbarê tohildana Qasim Sulêymanî de red dike.
+kmr_12837	Îran salane heft sed milyon dolar alîkariya leşkerî dide Hizbûlahê.
+kmr_12838	Îranê ji bo Supaya Pasdaran bertek da Yekîtiya Ewropayêyê.
+kmr_12839	Îranê vîdyoya roja desteserkirin û canjidestdana Jîna Emînî belav kir.
+kmr_12840	Îro çil û heştemîn salvegera projeya Zinara Erebî ye.
+kmr_12841	Îsraîlê bi mûşekan êrişî Firokexaneya Helebê kir.
+kmr_12842	Îsraîlê êrişî Firokexaneya Şamê kir pênc serbazên Sûriyeyê hatin kuştin.
+kmr_12843	Şandeke Amerîkayê li Kobanî li gel Encûmena Cîbicîkar a Rêveberiya Xweser dicive.
+kmr_12844	Şandeke Rojavayê Kurdistanê li Washingtonê beşdarî foruma azadiyên olî bû.
+kmr_12845	Şandên Ukrayna û Rûsyayê dê li ser sînorê Belarûsê bicivin.
+kmr_12846	Şanoya bi navê "Xewna Bajarekî", li Silopî derket ser dikê.
+kmr_12847	Şeqlawa bi berfê xemilî.
+kmr_12848	Şerê navbera hêzên Ukrayna û Rûsyayê li derdora bajarê Kharkivê.
+kmr_12849	Şevger Mîrza hunermendekî naskirî yê Rojavayê Kurdistanê ye.
+kmr_12850	Şêwekar Luqman Ehmed wêneyekî Makbule Ozerê xêz kir.
+kmr_12851	Şêwekarê Kurd Luqman Ehmed li Amerîkayê xelat wergirt.
+kmr_12852	Şêx Evdirehmanê Axtepî kurdekî navdar e.
+kmr_12853	Cem vî Feqoyê pîs zêdetir ji çar gulên xweşik hebûn.
+kmr_12854	Çakêtê wî yê qehweyî, xiftanê zer û papûxên binefşî li jorê dolabê ne.
+kmr_12855	Xwarina îşev: Qeliyê, savara bi goştê berxê, û cacixê bi pûjan.
+kmr_12856	Bivêrê tûj, çakûçê giran û merasîma paleyan, di bin siya gwîzan de bûn.
+kmr_12857	Pilingên çiyayê Gabarê û xezalên zozanan, di hembêza xwezayeke bê wêne de dijîn.
+kmr_12858	Ehmedê Fermanê Kîkî, dengbêjê wî, nexweş di nav nivînan de, li hêviyê ye.
+kmr_12859	Poz, pozê nas ê Bedirxanan e; mezin, dirêj û xweş.
+kmr_12860	Silav ji Constantinoplê, bergehek û dêmenek ji Modayê, li Kadikoyê.
+kmr_12861	Mîmariya wê ne ya Bîzansan e.
+kmr_12862	Xwediyê qesrê jî binemala Osmaniyan, sultan û şahzadeyên wan in.
+kmr_12863	Qonax, yek ji malên malbata Mirê Kurd ê Cizira Botan Bedirxan Beg e.
+kmr_12864	Li kêleka qonaxa Bedrî Paşayê Bedirxanî, gir bi şikêrekê xelas dibe.
+kmr_12865	Wî hinekî stûyê xwe xwar kiriye û li aliyê objektîva makînê mêze dike.
+kmr_12866	Bedirxanî, bi gotina Osmaniyan Bedirxanpaşazade, pir in.
+kmr_12867	Li taxa me Kiziltoprakê jî komeke tulumbaciyan hebû.
+kmr_12868	Diya Sureya jineke bedew a Çerkez û ji malbateke navdar a arîstokratên Osmaniyan bû.
+kmr_12869	Ew jî mîna dêmariya min a rehmetî ku min nedît, Çerkez bû.
+kmr_12870	Lê niha halê Samîhayê ne tu hal e.
+kmr_12871	Min nexwest ji Emînê xwe re bibêjim.
+kmr_12872	Di hembêza cariyekê de, di nav pêşgîreke spî de tiştek heye.
+kmr_12873	Pêşgîr di nav xwîna sor de ye.
+kmr_12874	Lê ew çi ye! Dengek tê.
+kmr_12875	Li vî pozî, li vî difnî fekin, Rûşen Xanim bi ken dibêje.
+kmr_12876	Enî, mîna eniya çiyayê Herekolê ye.
+kmr_12877	Wê li kêleka mêrê wê Mîr Bedirxan defn dikin..
+kmr_12878	Emîn Beg û birayê wî yê biçûk Murat li salonê rûnîştine.
+kmr_12879	Heyra ez ê jê re bibêjim Ceco.
+kmr_12880	Yê yekemîn cihû, yê duwemîn Ermen e.
+kmr_12881	Hem wî hem jî fotografkêşê din ê Kadikoyê Servanis xwendina xwe li Fransê, Parisê kirine.
+kmr_12882	Belê, paşnavê wan Thedore û Rafael e.
+kmr_12883	Yek ji wan tazî, yê din bi pêşgîrekî xwe dipêçe.
+kmr_12884	Li ser serê zarokan jî, bi tîpên Erebî yên mezin, Fotografhane-i Xendamian.
+kmr_12885	Bedirxanî Ermanan mîna cîran û pismamên xwe dibînin.
+kmr_12886	Li wir bi qasî Kurdan, Er men jî hene.
+kmr_12887	Lê di nerîna wî de tiştekî zêde heye; maxrûrî û asalet.
+kmr_12888	Karlêkên ronahiyê yên fotosentezê di parzûna tîlakoîdê de rû didin.
+kmr_12889	Durziyên Siweyda: Em çekên xwe radestî hikûmeta Şamê nakin.
+kmr_12890	Zelensky, me zêdeyî sed kesan ji Avostal a Mariupolê veguhestine.
+kmr_12891	Çiyayê Everestê, çiyayê herî bilind ê dinyayê ye.
+kmr_12892	Herwiha Rûken û Êvar jî dû navên keçan e.
+kmr_12893	Li Qazakistanê sed û şêst û çar kes hatin kuştin.
+kmr_12894	Ev hemû dîmenên serhildanên Şêx Seîd û Agiriyê ne.
+kmr_12895	Ew bi du qatan, ji ber û keviran lêbûne û bi siwaxeke spî hatine siwaxkirin.
+kmr_12896	Ew adet û ûsilên hezar salan, ji dem û dewrên Bîzansê, didomînin.
+kmr_12897	Kamuran bi Tirkiyeke wisan xweş dipeyive ku mezin diheyirin.
+kmr_12898	Moda Çayiri, nemaza bihar û havînan, dibe seyrangeheke yekta.
+kmr_12899	Li seyrangehê çend çayxanên havînê hene ku hertim tijî ne.
+kmr_12900	Ji çayxanan, Marmara mîna xweştirîn bergeha cîhanê dixuyê.
+kmr_12901	Lê niha, di vê roja seşemiyê de, seyrangeh û çayxane hinekî sakîntir e.
+kmr_12902	Dostê Emîn Beg hatibû Kiziltoprakê, mala wan.
+kmr_12903	Ew bi birayê xwe Mîthed serbilind bûn.
+kmr_12904	Belê, Mîthed li ser şopa bavê wan Mîr Bedirxan bû.
+kmr_12905	Gelî mîr û axa û Kurmancno! Dinya zane Kurd camêr in.
+kmr_12906	Ew botî û Kurdên Êzîdî bûne.
+kmr_12907	Belê, niha Tewfîk û Safter jî hene.
+kmr_12908	Nasîna mirovekî, keşfkirina cîhaneke nû ye.
+kmr_12909	Lê nasîna Amojna Sitî, keşfkirina sed cîhanan bû.
+kmr_12910	We digot qey, ew şêr û pilingê çiyayên Şengalê bû.
+kmr_12911	Çavên wî, mîna çavên teyrê simîr ê çiyayê Sîpanê Xelatê, spehî û dûrbîn bûn.
+kmr_12912	Safter li ser çoga wê ya çepê rûniştiye, Tewfîk jî li kêleka wê ya rastê.
+kmr_12913	Li jor gotina Rebbil Alemîn, li jêr jî gotina Mîr Bedirxan bû.
+kmr_12914	Kitab ji kitabxana Mîr Bedirxan a welêt maye.
+kmr_12915	Le eyamî heyatî Şêxî Xanî.
+kmr_12916	Le ser nisxey xet ew nûsirawe..
+kmr_12917	Yek ji rêzan, bi tîpên Latînî, weha ye; Kurdi..
+kmr_12918	Bi tenê Safte hatiye kolandin.
+kmr_12919	Loma jî vê êvarê xwarinên Cizîra Botanê divên.
+kmr_12920	Tayar Beg li hember û Samed Axa jî li kêleka Emîn Begê rûniştine.
+kmr_12921	Li kêleka Tayar Begê, Alî Şamîl Paşa û li kêleka wî jî Sureya rûniştiye.
+kmr_12922	Herçî qayide, yanê bi gotina Fransizan prensipe in, ew mîna zeviyê ne.
+kmr_12923	Şehrîban, Şehrîbana bedew jî zimanê jîn û bedenê bû.
+kmr_12924	Eger Mîr Bedirxanê rehmetî nebûya, xelkê û eşîrên Kurdan xwe li dora serhildanê nedicivandin.
+kmr_12925	Diya wî û Şehrîban jî, xweş, porê wî şeh kiribûn û qirawata papyonê pê vekiribûn.
+kmr_12926	Gava ew gihîştin Dolmabahçê, Evdilrezak Beg li ber deriyê bexçê Dolmabahçê li benda wan bû.
+kmr_12927	Evdilrezak Beg li Sarayê, mîna wergervan û teşrîfatvan, dixebitî û gelekî nêzîkê Sultan Evdilhemîd bû.
+kmr_12928	Abdullah Freres, bêguman Abdullah Freres, yanê Evdillahên bira.
+kmr_12929	Nîşana Abdullah Freres ji navê birayê mezin Abdullah Şukrî Efendî tê.
+kmr_12930	Roj, roja mahşerê, roja axirzemanê ye.
+kmr_12931	Ew jî li aliyê Kadikoyê dijî û cîranê mamê wan Murat Beg e.
+kmr_12932	Navê wî Ali Siûd e, keçika li kêlekê keça wî Canan e.
+kmr_12933	Di binê biryarê de mohra nas a Sadrazam heye.
+kmr_12934	Lê gava Evdilrezak Beg konaxa xwe ya Şîşliyê ava kir, dijîtiya wan hîn kûrtir bibû.
+kmr_12935	Şewket-î Derya, keştiyeke navdar bû, li Stembolê herkesî navê wê bihîstibû.
+kmr_12936	Kekê min Sureya jî li xwendegehê, Mekteb-î Sultaniyê..
+kmr_12937	Li lawê xwe yê biçûk Bedirxan ku li ser ejnûwên wî dirêj bûye, dinihêre.
+kmr_12938	Şênahî û kêfkweşiya malê, bêhal bêhereket, mîna çira ber destê sibê, vedimire.
+kmr_12939	Ji dengê zîz ê Meziyeta biçûk pê ve, tu deng dernakeve.
+kmr_12940	Ew li keleha Akkayê, di bin çavnêriya ordiyê de, li benda çûyina Spartayê man.
+kmr_12941	Hîkmet, Tevfîk, Safter û Mezo jî bi Bedirxan re dilîstin û ew dilorandin.
+kmr_12942	Lê niha Mezo dinehwirîne; Ne mal û ne saxî û ne rahet,.
+kmr_12943	Bedirxan, Berxoyê mala me, mir.
+kmr_12944	Tu çawan bikevî mekteba herbiye û bibî zabitê Tirko.
