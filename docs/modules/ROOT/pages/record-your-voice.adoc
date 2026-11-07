@@ -3,7 +3,8 @@
 :script: {repo}/tree/main/data/recording-script
 :script-file: {repo}/blob/main/data/recording-script
 
-Text-to-speech models for Kurmanji, Sorani and Zazaki need voice recordings from native speakers.
+Text-to-speech models for any language need voice recordings from native speakers.
+Kurmanji comes first because that is where the project started, but Sorani, Zazaki and every other language, Kurdish or not, are welcome.
 The voices are used by blind people with NVDA, often at two to three times normal speed, so every sound has to stay clear.
 Consistency matters more than expressiveness.
 
@@ -14,7 +15,9 @@ If you prefer not to use a public issue, contact a maintainer through the https:
 We reply with access to the upload folder and help setting up your recording app.
 Start with batch 1: it is useful on its own, and you can continue from there.
 
-The guide below is the Kurmanji one; other languages will follow the same method.
+The guide below applies to every language.
+Details that belong to one language, such as its script and pronunciation notes, are under <<language-notes,Language notes>>.
+For a language that has no script yet, we prepare one with you.
 
 == Recording terms
 
@@ -29,14 +32,13 @@ Confirm it in your opening issue with the line "I agree to the recording terms".
 
 == What you read
 
-The Kurmanji script is public, in {script}[`data/recording-script/`] in this repository.
+Each language has a script: a list of sentences split into batches of about one hour of finished audio each.
 
-* It has 12,944 sentences in 13 batches of about one hour of finished audio each. Each batch file, such as {script-file}/batches/batch_01.txt[`batch_01.txt`], has one sentence per line: the id, a tab, then the text. {script-file}/kurmanji_recording_script.csv[`kurmanji_recording_script.csv`] holds every sentence in one file.
-* Batches 1 to 10 are the core, about 10 hours per speaker. Every speaker reads the same sentences in the same order. Batches 11 to 13 are optional extensions.
-* Batch 1 covers every common Kurmanji sound pair, so it alone is enough to train a test voice.
-* We train on the core set first and decide afterwards whether more hours are worth recording. More than 10 to 20 hours per speaker barely improves a Piper voice, and long sessions make voice and pace drift, which hurts clarity.
-* Each line has an id such as `kmr_00042`. Save each recording as `kmr_00042.wav`.
-* The sentences come from https://commonvoice.mozilla.org/[Common Voice] (CC0) and an earlier Kurmanji script. If a sentence is wrong Kurmanji, has a typo, or is something you would not say, skip it and add its id to a `skipped.txt` file. Do not fix it while reading.
+* Each line has an id. Save each recording as `<id>.wav`.
+* Every speaker of a language reads the same sentences in the same order.
+* The first batch covers the common sound pairs of the language, so it alone is enough to train a test voice.
+* The core set is about 10 hours per speaker. We train on it first and decide afterwards whether more hours are worth recording. More than 10 to 20 hours per speaker barely improves a Piper voice, and long sessions make voice and pace drift, which hurts clarity.
+* If a sentence is wrong in your language, has a typo, or is something you would not say, skip it and add its id to a `skipped.txt` file. Do not fix it while reading.
 
 == Room and equipment
 
@@ -52,16 +54,16 @@ The Kurmanji script is public, in {script}[`data/recording-script/`] in this rep
 * Read in a calm, neutral, informative voice, like a news reader or audiobook narrator. Don't act or add emotion, even for exclamations.
 * Keep a steady, moderate pace. Don't speed up as the session goes on.
 * Say every consonant fully, especially at the ends of words. Don't let sentence endings fade into a whisper.
-* Use your natural native pronunciation, including the difference between aspirated and plain p, t, k and ç (for example _çadir_ and _çav_), and h/ḧ and x/ẍ where you make them.
+* Use your natural native pronunciation, including every sound distinction your language makes.
 * Leave about half a second of silence before and after each sentence.
 * If you stumble, re-record the whole sentence. Don't correct yourself mid-sentence.
-* Read names, abbreviations and foreign words the way a Kurmanji news reader would.
+* Read names, abbreviations and foreign words the way a news reader in your language would.
 
 == Sessions
 
 * Record at most 1 to 1.5 hours of actual reading per day, in sessions of 30 to 45 minutes with breaks. A tired voice changes how you sound, and that hurts the model.
 * Record at the same time of day when you can. Keep water nearby, and avoid dairy and caffeine just before recording.
-* Start every session by reading the reference sentence _Yek, du, sê, çar, pênc, şeş, heft, heşt, neh, deh._ Save it as `ref_YYYY-MM-DD_N.wav`, where N counts that day's sessions (`_1`, `_2`), so two sessions on one day never overwrite each other. We use it to check that your voice and setup stay the same between sessions.
+* Start every session by reading the reference sentence for your language, which is listed under <<language-notes,Language notes>> or sent with your script. Save it as `ref_YYYY-MM-DD_N.wav`, where N counts that day's sessions (`_1`, `_2`), so two sessions on one day never overwrite each other. We use it to check that your voice and setup stay the same between sessions.
 * After batch 1, upload it and wait for feedback before continuing. Setup problems are cheap to fix at that point.
 
 == Recording app
@@ -72,6 +74,24 @@ The Kurmanji script is public, in {script}[`data/recording-script/`] in this rep
 == Handing in recordings
 
 Upload each batch to the shared Drive folder `ziman/recordings/<speaker name>/batch_XX/`, together with that batch's `skipped.txt` and your session reference files.
+
+[#language-notes]
+== Language notes
+
+=== Kurmanji
+
+The Kurmanji script is public, in {script}[`data/recording-script/`] in this repository.
+
+* It has 12,944 sentences in 13 batches. Each batch file, such as {script-file}/batches/batch_01.txt[`batch_01.txt`], has one sentence per line: the id, a tab, then the text. {script-file}/kurmanji_recording_script.csv[`kurmanji_recording_script.csv`] holds every sentence in one file.
+* Batches 1 to 10 are the core, about 10 hours per speaker. Batches 11 to 13 are optional extensions.
+* Batch 1 covers every common Kurmanji sound pair.
+* Ids look like `kmr_00042`, so you save that recording as `kmr_00042.wav`.
+* The sentences come from https://commonvoice.mozilla.org/[Common Voice] (CC0) and an earlier Kurmanji script.
+* Reference sentence: _Yek, du, sê, çar, pênc, şeş, heft, heşt, neh, deh._
+* Keep the difference between aspirated and plain p, t, k and ç (for example _çadir_ and _çav_), and h/ḧ and x/ẍ where you make them.
+* Read names, abbreviations and foreign words the way a Kurmanji news reader would.
+
+Notes for other languages are added here as their scripts are prepared.
 
 == What happens next
 
