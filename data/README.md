@@ -1,14 +1,17 @@
 # Data
 
 Only text lives here: dataset descriptions and manifests. Audio stays in
-external storage (see `docs/model-hosting.md`).
+external storage (see
+[`docs/modules/ROOT/pages/model-hosting.adoc`](../docs/modules/ROOT/pages/model-hosting.adoc)).
 
 ## Recording script
 
 The Kurmanji recording script lives in [`recording-script/`](recording-script/):
 `kurmanji_recording_script.csv` with columns `id,batch,part,text` (ids like
 `kmr_00001`), split into 13 batch files of about one hour each for recording
-sessions. The text is CC0 1.0 (public domain); see
+sessions. Speakers follow the
+[recording guide](../docs/modules/ROOT/pages/record-your-voice.adoc).
+The text is CC0 1.0 (public domain); see
 [`recording-script/README.md`](recording-script/README.md).
 
 ## Manifests
