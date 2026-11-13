@@ -1,0 +1,100 @@
+= Recording consent
+:repo: https://github.com/ZirekHQ/voice-models
+
+// DRAFT for Ali. Replaces the "Recording terms" list in record-your-voice.adoc,
+// which today says CC0. Lines in [brackets] are decisions for Ali.
+// Have a lawyer read it before the first recording: voices are personal data
+// (GDPR / UK GDPR), and a licence once given cannot be taken back.
+
+Version 1.0
+
+This is the agreement between you, a volunteer who records your voice, and Zirek ("we", the maintainers of the https://github.com/ZirekHQ[ZirekHQ] projects).
+It is written in plain words on purpose.
+If anything is unclear, ask before you record.
+Recording is always your choice and you can stop at any time.
+
+== In short
+
+* Your recordings are shared publicly for *non-commercial* use, with credit to the project (and to you, if you want).
+* A *business* can use your voice only by making a written agreement with Zirek. We publish every such agreement.
+* Money from those agreements pays for the project: [recording, checking, hosting and training costs. Ali to confirm].
+* A voice that has been published cannot be taken back. You can have your recordings removed before training starts.
+
+== What you give us
+
+"Recordings" means the audio files you make for the project, the text you read, and the models trained on them.
+
+== 1. Public licence (non-commercial)
+
+You license your Recordings to everyone under https://creativecommons.org/licenses/by-nc/4.0/[Creative Commons Attribution-NonCommercial 4.0] (CC BY-NC 4.0).
+Anyone may use, copy, train on and share them for non-commercial purposes if they give credit to the Zirek project.
+Free apps, screen readers, schools, charities and research are all non-commercial uses.
+
+== 2. Commercial use only by agreement
+
+You also give Zirek the right to license your Recordings, and models trained on them, to businesses for commercial use.
+This right is non-exclusive: you keep the copyright and can license your own recordings elsewhere.
+We will only do this under a written agreement that:
+
+* names the business and what it may do,
+* forbids using the voice to imitate you or anyone else without permission,
+* is added to the public list of agreements in the {repo}[voice-models repository].
+
+[Ali to decide: are volunteers allowed to say "non-commercial only, no business licence"? Simplest is one rule for everyone, because trained models mix many speakers. If you allow opt-outs, that speaker's voice is left out of any commercially licensed model.]
+
+== 3. Where the money goes
+
+[Ali to confirm before use.] Money Zirek receives under section 2 is used for the project: paying for recording and checking work, hosting and training.
+We publish a short yearly summary of income and spending.
+
+== 4. Published voices
+
+Models trained on your Recordings may be published and used by anyone allowed under sections 1 and 2, including other projects.
+A published model cannot be recalled.
+
+== 5. Withdrawing
+
+You can ask us to remove your Recordings from the dataset at any time before they go into a training run.
+Once a model is released, your voice stays in it.
+
+== 6. Your data
+
+A voice identifies you.
+We keep your audio, your name or pseudonym, your language and the date you agreed.
+Only the maintainers can see them.
+Audio stays in the shared Drive folder until it goes into a training run.
+To have your data deleted, open an {repo}/issues[issue] that names only the pseudonym or credit you gave, never your real name or contact details.
+[Add the controller's contact and retention period once a contact address exists, see voice-models#5.]
+
+== 7. Credit
+
+You choose whether the voice credits you by name, by pseudonym, or not at all.
+Say which in your opening issue.
+Credit to the project is always required under CC BY-NC.
+
+== 8. Misuse
+
+Anyone can copy a public voice, and we cannot stop a determined person from misusing it, for example to imitate you.
+Our licences and agreements forbid it and we will act on reports, but we cannot promise it will never happen.
+If you are not comfortable with that risk, do not record.
+
+== 9. Your promises
+
+* You are at least 18 years old, or a parent or guardian has agreed in writing.
+* The voice is yours, and you read only the text we give you.
+* You are not under any contract that stops you from agreeing to this.
+
+== 10. Changes
+
+If we change this agreement we give the new version a new number.
+A new version applies only to recordings made after you agree to it.
+
+== How to agree
+
+In your opening issue write the line:
+
+----
+I agree to the recording consent v1.0
+----
+
+We keep a link to that issue as the record of your agreement.
