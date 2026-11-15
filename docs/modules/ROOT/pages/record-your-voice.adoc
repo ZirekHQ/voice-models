@@ -10,7 +10,7 @@ Consistency matters more than expressiveness.
 
 Anyone who speaks the language natively can volunteer.
 To start, open an issue on the {repo}/issues[voice-models repository] saying which language you speak.
-GitHub issues are public, so post only your language, the terms line and your credit choice, never contact details or recordings; the terms below do not cover what you write in an issue.
+GitHub issues are public, so post only your language, the consent line and your credit choice, never contact details or recordings; the consent does not cover what you write in an issue.
 If you prefer not to use a public issue, contact a maintainer through the https://github.com/ZirekHQ[organization page].
 We reply with access to the upload folder and help setting up your recording app.
 Start with batch 1: it is useful on its own, and you can continue from there.
@@ -21,14 +21,9 @@ For a language that has no script yet, we prepare one with you.
 
 == Recording terms
 
-By recording for Zirek you agree to the following.
-Confirm it in your opening issue with the line "I agree to the recording terms".
-
-* *Licence.* You release your recordings under https://creativecommons.org/publicdomain/zero/1.0/[CC0 1.0], the same dedication as the sentences you read. Anyone may use, train on and redistribute them without asking or crediting you.
-* *Published voices.* Models trained on your recordings may be published and used by anyone, including other projects. A published model cannot be recalled.
-* *Withdrawal.* You can ask us to remove your recordings from the dataset at any time before they go into a training run. Once a model is released, your voice stays in it.
-* *Your data.* A voice identifies you. We keep your audio, your name or pseudonym, and your language. Only the maintainers can access them. They stay in the shared Drive folder until they go into a training run. To have your data deleted, open an issue on the {repo}/issues[voice-models repository] that names only the pseudonym or credit you gave in your opening issue, never your real name or contact details if you have not already made them public.
-* *Credit.* You choose whether the voice credits you by name or does not name you. Say which in your opening issue.
+Read the xref:recording-consent.adoc[recording consent] before you record.
+In short: your recordings are shared for non-commercial use, a business can use them only under a written agreement with Zirek, and a published voice cannot be recalled.
+Confirm your agreement in your opening issue with the line "I agree to the recording consent v1.0", and say whether the voice should credit you by name, by pseudonym or not at all.
 
 == What you read
 
